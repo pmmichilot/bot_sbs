@@ -1,0 +1,441 @@
+                                                                                                          Lima, 18 de octubre de 2013        
+                                                                                                 
+                                                                                                                      
+                                                                  Resolución S.B.S. 
+                                                                      N° 6283-2013 
+                                                                                      
+                                                  El Superintendente de Banca, Seguros y 
+                                           Administradoras Privadas de Fondos de Pensiones 
+                             
+                             
+                                                                           CONSIDERANDO: 
+                                                                
+                                                                            
+                                                                           Que,  mediante  Ley  Nº 29985 se aprobó la Ley que regula 
+                            las  Características  Básicas  del  Dinero  Electrónico  como  Instrumento  de  Inclusión  Financiera,  en 
+                            adelante  la Ley; 
+                                                                            
+                                                                           Que,  mediante  Decreto  Supremo  N°  090-2013-EF  se 
+                            aprobó  el  Reglamento  de  la  Ley  Nº  29985  que  Regula  las  Características  Básicas  del  Dinero 
+                            Electrónico; 
+                                                                            
+                                                                           Que,     ambos      dispositivos     legales    facultan   a     la 
+                            Superintendencia  de  Banca,  Seguros y Administradoras Privadas de Fondos de Pensiones, a emitir 
+                            normas reglamentarias  y  complementarias  sobre  diversas  materias  relacionadas  a  las  operaciones 
+                            con dinero electrónico; 
+                                     
+                                                                           Que,  en  ese  sentido resulta necesario establecer el marco 
+                            normativo bajo el cual se regirá la realización de operaciones con dinero electrónico; 
+                                                                            
+                                                                           Que,  mediante  Resolución  SBS  N°  895-98 y sus normas 
+                            modificatorias y complementarias se aprobó el Manual de Contabilidad para las Empresas del Sistema 
+                            Financiero, en adelante  Manual de Contabilidad; 
+                                                                            
+                                                                           Que,  a  efectos  de  recoger  las  opiniones  del  público  en 
+                            general,  se  dispuso  la  prepublicación  del  proyecto  de  resolución  en  el  portal  electrónico  de  la 
+                            Superintendencia,  al amparo de lo dispuesto en el Decreto Supremo Nº 001-2009-JUS; 
+                                                                            
+                                                                           Contando  con  el  visto  bueno  de  las  Superintendencias 
+                            Adjuntas de Banca y Microfinanzas, Riesgos, Estudios Económicos y Asesoría Jurídica, así como de 
+                            la Gerencia de Productos y Servicios al Usuario; y,  
+                                                                            
+                                                                           En uso de las atribuciones conferidas en los numerales 7, 
+                            9,  13  y  19  del  artículo  349º  de  la Ley General del Sistema Financiero y del Sistema de Seguros y 
+                            Orgánica de la Superintendencia de Banca y Seguros – Ley N°26702 y sus normas modificatorias, en 
+                            adelante  Ley  General,  así  como  las  facultades  otorgadas  en  la  Ley  Nº  29985  y  su  reglamento 
+                            aprobado por Decreto Supremo N° 090-2013-EF; 
+                                                                            
+                                                                               RESUELVE: 
+                                                                                
+                                                                               Artículo Primero.- Aprobar el Reglamento de Operaciones 
+                             con Dinero Electrónico, según se indica a continuación: 
+                              
+                                                “REGLAMENTO DE OPERACIONES CON DINERO ELECTRONICO 
+                              
+                              
+                                                                                    TÍTULO I 
+                                                                 DE LAS DISPOSICIONES GENERALES 
+                              
+                             Artículo 1.-  Alcance 
+                             Las  disposiciones  de  la  presente  norma  son  aplicables  a  las  empresas  de  operaciones  múltiples 
+                             comprendidas en el literal A del artículo 16° de la Ley General autorizadas a emitir dinero electrónico, 
+                             a las empresas emisoras de dinero electrónico a que se refiere el numeral 6 del artículo 17° de la Ley 
+                             General, al Banco de la Nación, al Banco Agropecuario, así como a las empresas que se consideren 
+                             dentro del ámbito de la Ley, a criterio de esta Superintendencia, en aplicación de la Quinta Disposición 
+                             Complementaria  Final de la Ley, en adelante  emisores de dinero electrónico. 
+                              
+                             Artículo 2.-  Definiciones 
+                             Para efectos de lo dispuesto en la presente norma, considérense las siguientes  definiciones: 
+                             a.    Dinero  electrónico:  aquel definido de acuerdo con lo establecido en el artículo 1° del Reglamento 
+                                   de la Ley. 
+                             b.    Emisión:  comprende  las  operaciones  de  conversión  a  dinero  electrónico,  reconversión, 
+                                   transferencias,  pagos  y cualquier movimiento u operación relacionada con el valor monetario del 
+                                   que disponga el titular  y necesaria para dichas operaciones. 
+                             c.    Ley: Ley que Regula las Características  Básicas del Dinero Electrónico, Ley Nº 29985. 
+                             d.    Reglamento  de  Gestión  de  Riesgos  de  Lavado de Activos y del Financiamiento del Terrorismo: 
+                                   Reglamento  de  Gestión  de  Riesgos  de  Lavado de Activos y del Financiamiento del Terrorismo, 
+                                                                                        1
+                                   aprobado por Resolución SBS N° 2660-2015.  
+                                                                                                               1
+                             e.    Persona: Se refiere a las personas naturales y personas jurídicas.  
+                             f.    Reglamento  de  la  Ley:  Reglamento  de  la Ley Nº 29985 que Regula las Características Básicas 
+                                   del Dinero Electrónico, Decreto Supremo N° 090-2013-EF. 
+                             g.    Reglamento  de  Transparencia  de  Información  y  Contratación  con  Usuarios  del  Sistema 
+                                   Financiero:  Reglamento  de  Transparencia  de  Información  y  Contratación  con  Usuarios  del 
+                                   Sistema Financiero aprobado por la Resolución SBS N° 8181-2012 y sus normas modificatorias. 
+                             h.    Superintendencia:  Superintendencia  de Banca, Seguros y AFP. 
+                             i.    Tarjeta prepago de dinero electrónico: es un soporte para el uso del dinero electrónico, en el cual 
+                                   se  almacena  valor  monetario  en  una  tarjeta,  física  o  virtual,  recargable  o  no,  y  cuyo  uso  se 
+                                   encuentra limitado  al saldo existente  en esta en cada momento. 
+                             j.    Titular:  persona  que  contrata  con  el  emisor  de  dinero  electrónico  la  prestación  del  servicio  de 
+                                   emisión  de  dinero  electrónico.  También  se  considera  titular  a  los menores de edad que tengan 
+                                   más de dieciséis  (16)  años,  que  cuenten  con  autorización de su tutor o apoderado legal o que 
+                                   cuenten con capacidad de ejercicio de acuerdo con la normativa vigente. 
+                             k.    Transacción:  Es  la  ejecución  individual  de  las  operaciones  de  conversión,  reconversión, 
+                                   transferencias,  pagos  y cualquier movimiento u operación relacionada con el valor monetario del 
+                                   que disponga el titular  y necesaria para dichas operaciones. 
+                                                                                                                                        2
+                             l.    Persona natural:  Se refiere a las personas naturales  o personas naturales con negocio.  
+                                                                                          
+                             1 Literal sustituido por la Resolución SBS N° 465-2017 de 02 de febrero de 2017. 
+                             2
+                               Literal incorporado por la Resolución SBS N° 465-2017 de 02 de febrero de 2017. 
+                             m.  Cuentas  operativas:  Son  las  cuentas  de  dinero  electrónico  a  que  se  refiere  el  artículo  7°  del 
+                                   Reglamento  de la Ley Nº 29985 que mantienen los operadores de cajeros corresponsales o los 
+                                   emisores  mismos,  con  la  finalidad  de  realizar  operaciones  que  permitan  el  adecuado 
+                                                                                            3
+                                   funcionamiento  del servicio de dinero electrónico.  
+                             n.    Dinero  electrónico  emitido:  Dinero  electrónico  en  las  cuentas  que  mantiene  el  emisor,  sean  de 
+                                                                      3
+                                   usuarios o cuentas operativas.  
+                              
+                                                                                
+                                                                                   TÍTULO II 
+                                                                       DEL DINERO ELECTRÓNICO 
+                              
+                             Artículo 3.-  Operaciones con dinero electrónico 
+                             Las  operaciones  que  pueden  realizarse  con  dinero  electrónico,  según  el  tipo  de  cuenta  de  dinero 
+                             electrónico,  son: 
+                              
+                             a)  Conversión.  
+                             b)  Reconversión. 
+                             c)  Pagos. 
+                             d)  Transferencias. 
+                             e)  Otras  operaciones  a  los  que  el  emisor  de  dinero  electrónico  haya  sido  autorizado  por  esta 
+                                  Superintendencia. 
+                              
+                                                                                                4
+                             Artículo 4.-  Soportes para uso de dinero electrónico  
+                             Los  soportes  mediante  los  cuales  se  puede  hacer  uso  del  dinero  electrónico  pueden  ser  los 
+                             siguientes: 
+                             a) Teléfonos  móviles. 
+                             b) Tarjetas prepago. 
+                             c) Cualquier otro equipo o dispositivo  electrónico, que cumpla los fines establecidos  en la Ley. 
+                              
+                             Estos dispositivos  deben  incluir como mínimo la siguiente  información: 
+                              
+                                   1.  Denominación  social  de  la  empresa  que emite el soporte mediante el cual se hace uso del 
+                                        dinero electrónico. 
+                                   2.  Nombre comercial que la empresa asigne al producto. 
+                                   3.  Identificación  del sistema de tarjeta  (marca) al que pertenece,  de ser el caso. 
+                              
+                                                                                                                                        5
+                             Dicha información debe ser mostrada en un espacio visible y de fácil acceso para el usuario .  
+                              
+                             Un  mismo  soporte  puede  ser  utilizado  y/o  asociado  para  realizar  transacciones  con  más  de  una 
+                             cuenta de dinero electrónico. 
+                              
+                              
+                              
+                              
+                              
+                                                                                                                                                                                                          
+                              
+                             3
+                               Literal incorporado por la Resolución SBS N° 465-2017 de 02 de febrero de 2017 
+                             4
+                               Sustituido por la Resolución SBS N° 504-2021 del 22/02/2021 vigente a partir del 24.02.2021. 
+                             5
+                               Sustituido por la Resolución SBS N° 504-2021 del 22/02/2021 vigente a partir del 01.01.2022. 
+                              
+                                              Artículo 5.-  Cuentas de dinero electrónico simplificadas 
+                                              Se consideran  “cuentas  de  dinero  electrónico simplificadas” a aquellas cuentas que los emisores de 
+                                              dinero  electrónico  ponen  a  disposición  de  personas  naturales  y  que  cumplen  con  las  siguientes 
+                                                                    6
+                                              condiciones:  
+                                               
+                                                                                                                                                                                          7
+                                              a)  Son abiertas por personas naturales  nacionales o extranjeras residentes.  
+                                                                                                                                                                                                    8
+                                              b)  Cada transacción se encuentra sujeta al límite  de tres mil soles (S/. 3,000.00).  
+                                              c)  El  saldo  consolidado  de  cuentas  de  dinero  electrónico  de  un  mismo  titular,  bajo  cualquier 
+                                                     modalidad, en un mismo emisor de dinero electrónico, no puede ser superior a diez mil soles (S/. 
+                                                                         9
+                                                     10,000.00).  
+                                              d)  Las  conversiones  a dinero electrónico acumuladas de un mismo titular, bajo cualquier modalidad, 
+                                                     en un mismo emisor en un mes, no pueden ser mayores a diez mil soles (S/. 10,000.00).10 
+                                              e)  Las  transacciones  acumuladas  (conversiones,  transferencias, pagos, reconversiones, etc.) de un 
+                                                     mismo titular,  bajo cualquier modalidad, en un mismo emisor en un mes, no pueden exceder de 
+                                                                                                               11
+                                                     quince mil soles (S/. 15,000.00).  
+                                              f)     La  apertura  de  cuentas  de  dinero  electrónico  simplificadas y las operaciones de conversión solo 
+                                                     pueden  ser  realizadas  en  el  territorio  nacional.  Asimismo,  dichas  cuentas  solo  pueden  ser 
+                                                                                                             5
+                                                     utilizadas  en moneda nacional.  
+                                                                                                                                                                                          12
+                                              g)  No se solicita un monto mínimo de apertura ni un saldo mínimo mensual.  
+                                              h)  Se  crean  como  cuentas  de  dinero  electrónico  simplificadas  y  deben  permanecer  bajo  esta 
+                                                                                                                                                                                              13
+                                                     categoría,  cumpliendo con los requisitos establecidos,  durante  su vigencia.  
+                                                      
+                                              Los  emisores  de  dinero  electrónico  deben  definir  procedimientos  y  medidas  con  el  objetivo  de 
+                                              monitorear el cumplimiento  de los límites y condiciones antes señaladas. 
+                                               
+                                              Cuando los  usuarios  del  dinero  electrónico  intenten  efectuar transacciones que excedan los límites y 
+                                              condiciones antes establecidos, los emisores, a través del dispositivo utilizado, deberán informar a los 
+                                              usuarios que la transacción no puede ser llevada a cabo debido al incumplimiento  de los límites. 
+                                               
+                                              Artículo 6.-  Cuentas de dinero electrónico generales 
+                                              Las  cuentas de dinero electrónico que no cumplan las características para ser consideradas cuentas 
+                                              de dinero electrónico simplificadas, serán consideradas como cuentas de dinero electrónico generales 
+                                              y  no  estarán  sujetas  a  los  límites  establecidos en el artículo anterior, pero sí al límite señalado en el 
+                                              literal  b) del artículo  5° de la Ley. 
+                                               
+                                              Artículo 7.-  Régimen Simplificado de conocimiento del cliente y debida diligencia de Lavado 
+                                              de activos y financiamiento del terrorismo 
+                                              Las  cuentas de dinero electrónico simplificadas se encuentran incluidas en el régimen simplificado de 
+                                              debida diligencia en el conocimiento de clientes a que alude el artículo 31° del Reglamento de Gestión 
+                                              de Riesgos de Lavado de Activos y del Financiamiento  del Terrorismo.14 
+                                               
+                                                                                                           
+                                              6
+                                                 Párrafo sustituido por la Resolución SBS N° 465-2017 de 02 de febrero de 2017. 
+                                              7
+                                                 Literal sustituido por la Resolución SBS N° 465-2017 de 02 de febrero de 2017. 
+                                              8
+                                                 Literal sustituido por la Resolución SBS N° 1262-2020 del 20 de marzo de 2020. 
+                                              9
+                                                 Literal sustituido por la Resolución SBS N° 1262-2020 del 20 de marzo de 2020 
+                                              10 Literal sustituido por la Resolución SBS N° 1262-2020 del 20 de marzo de 2020 
+                                              11 Literal sustituido por la Resolución SBS N° 1262-2020 del 20 de marzo de 2020 
+                                              12 Literal incluido por la Resolución SBS N° 2891-2018 del 25 de julio de 2018. 
+                                              13 Literal incluido por la Resolución SBS N° 2891-2018 del 25 de julio de 2018. 
+                                              14 Párrafo sustituido por la Resolución SBS N° 465-2017 de 02 de febrero de 2017. 
+                       Para  la  apertura  de  las  cuentas  de  dinero  electrónico  simplificadas  se  requerirá,  como  mínimo,  la 
+                       información  correspondiente  al  nombre  completo  del  titular,  así  como  al  número  del  Documento 
+                       Nacional  de  Identidad  (DNI)  o al número del Carnet de Extranjería, según corresponda. La empresa 
+                       realiza  la  verificación  a  través de Reniec, Migraciones o de cualquier otra modalidad  que le permita 
+                       dejar  constancia  de  la  verificación  realizada,  incluso  posteriormente  a  la  apertura  de  la  cuenta. 
+                       Cuando  la  contratación  sea  presencial,  es  exigible  la  presentación  del  documento  de  identidad  o 
+                                          15
+                       carnet de extranjería.  
+                                
+                       Para  la  apertura  de  cuentas  de dinero electrónico simplificadas que tengan como soporte electrónico 
+                       teléfonos  móviles,  se  requerirá  también  el  número  de  servicio  de  telefonía  móvil  asociado  a  dicho 
+                       soporte electrónico. 
+                        
+                       Las  empresas  deberán  desarrollar  procedimientos de monitoreo, evaluación de riesgo y control a fin 
+                       de  prevenir  el  abuso  de  las  cuentas  de  dinero  electrónico  simplificadas,  garantizar  su  operatividad 
+                       dentro  de  las  condiciones  establecidas  y  tomar  las  medidas  adicionales  que  sean  apropiadas  para 
+                       mantener el servicio dentro de los niveles propios de una cuenta de bajo riesgo en materia de lavado 
+                       de activos y de financiamiento  del terrorismo. 
+                        
+                       Las empresas podrán solicitar a la Superintendencia que otros servicios de dinero electrónico de bajo 
+                       riesgo  de  lavado  de  activos  y  financiamiento  del  terrorismo  sean  considerados  bajo  el  régimen 
+                       simplificado  de  debida  diligencia  en  el  conocimiento  de  clientes,  para  lo  cual  tendrán  en  cuenta  lo 
+                       establecido  en  el  artículo  31°  del  Reglamento  de  Gestión  de  Riesgos  de  Lavado  de  Activos  y  del 
+                                                    16
+                       Financiamiento  del Terrorismo.  
+                        
+                                                                                                     1718
+                       Artículo 8.-  Régimen general de debida diligencia en conocimiento del cliente    
+                       Los  requisitos de identificación y verificación mínimos aplicables a los titulares para la apertura de las 
+                       cuentas  de  dinero  electrónico  que  no  cumplan  las características para ser consideradas cuentas de 
+                       dinero  electrónico  simplificadas,  se  regirán  por  el  régimen  general  de  debida  diligencia  en  el 
+                       conocimiento  del  cliente,  de acuerdo con lo establecido en el artículo 30° del Reglamento de Gestión 
+                       de  Riesgos  de  Lavado  de  Activos  y  del  Financiamiento  del  Terrorismo,  con excepción de aquellos 
+                       titulares  que  se  encuentren  sujetos  al  régimen  reforzado  de  debida  diligencia en el conocimiento del 
+                                                                            19
+                       cliente,  que señala el artículo  32° del citado Reglamento.  
+                        
+                       Para  la  apertura  de  cuentas  de  dinero  electrónico  antes  señaladas  que  tengan  como  soporte 
+                       electrónico  teléfonos  móviles,  se  requerirá también el número de servicio de telefonía móvil asociado 
+                       a dicho soporte electrónico. 
+                        
+                       En el caso de extranjeros, la empresa debe verificar la información con la base de datos del Registro 
+                       Central  de  Extranjería  de  la  Dirección  General  de  Migraciones  y  Naturalización,  lo  que  podrá 
+                       realizarse posteriormente  a la apertura de la cuenta de dinero electrónico. 
+                        
+                                                                
+                       Artículo 9.-  Transacciones realizadas a través de cajeros corresponsales 
+                       Los  emisores  de  dinero  electrónico  deberán  establecer  mecanismos  que  aseguren  que  las 
+                       transacciones  con  dinero  electrónico  realizadas  a través de cajeros corresponsales, cumplan con lo 
+                                                                                    
+                       15 Párrafo modificado por la Resolución SBS N° 2891-2018 del 25 de julio de 2018 
+                       16 Párrafo sustituido por la Resolución SBS N° 465-2017 de 02 de febrero de 2017. 
+                       17 Nombre de artículo sustituido por la Resolución SBS N° 465-2017 de 02 de febrero de 2017. 
+                       18 Último párrafo modificado por la Resolución SBS N°2304 -2020 vigente a partir del 23.10.2020 
+                       19 Párrafo sustituido por la Resolución SBS N° 465-2017 de 02 de febrero de 2017. 
+                  establecido  en  los  párrafos  segundo  o  tercero  del  artículo  4°  de  la  presente  norma,  según 
+                  corresponda; ello implica no solo el registro de las transacciones en las cuentas de dinero electrónico 
+                  de  los  titulares,  sino  también  el  registro  del  ingreso  o  salida  de  los  recursos  en  los  sistemas  del 
+                  emisor.  
+                   
+                  Conforme lo señalado en el artículo 7° del Reglamento de la Ley, en los casos que los emisores de 
+                  dinero  electrónico  utilicen  cuentas  operativas  de  dinero  electrónico  con  sus  cajeros  corresponsales, 
+                  estas  no  estarán  sujetas  al  límite  establecido  en el literal b) del artículo 5° de la Ley, ni a los límites 
+                  establecidos  en el artículo  5° de la presente norma. 
+                                                  
+                  Artículo 10.- Información a presentar a la Superintendencia 
+                  Los emisores de dinero electrónico deberán presentar a la Superintendencia, vía SUCAVE, el Reporte 
+                  N°  32-A  “Reporte  Diario  de  Dinero  Electrónico”.  Este  Reporte  deberá  ser  presentado  diariamente 
+                  hasta las 15:00 horas del día hábil siguiente. 
+                                                  
+                  Asimismo, los emisores de dinero electrónico deberán presentar a la Superintendencia, vía SUCAVE, 
+                  el  Reporte  N°  32-B  “Reporte  Mensual  de  Dinero  Electrónico”.  Este  Reporte  deberá ser presentado 
+                  mensualmente dentro de los quince (15) días calendario  siguientes a la fecha de cierre de cada mes. 
+                   
+                                                  
+                                                  
+                                                          20
+                                                  TÍTULO III  
+                                                        
+                                                  TÍTULO IV21 
+                                               DE LAS GARANTIAS 
+                   
+                  Artículo 11.- Constitución de los fideicomisos 
+                  Los  emisores  de  dinero  electrónico,  en  calidad  de  fideicomitentes,  deben  constituir  en  empresas 
+                  autorizadas  para  actuar  como  fiduciarios  según  la  legislación  vigente sobre la materia, diferentes del 
+                  emisor de dinero electrónico, fideicomisos por el cien por ciento (100%) del dinero electrónico emitido, 
+                  constituyendo  patrimonios  fideicometidos  cuya  finalidad  exclusiva  sea  respaldar  a  los  tenedores  de 
+                  cuentas de dinero electrónico. 
+                       
+                  Asimismo, en el acto constitutivo  de los fideicomisos, se deberá designar a un fiduciario  sustituto  y el 
+                  procedimiento  de sustitución  en caso de quiebra o cuando opere otra causal de remoción de este. 
+                   
+                  Artículo 12.- Valor de los patrimonios fideicometidos 
+                  Los emisores de dinero electrónico son responsables de establecer mecanismos para asegurar que el 
+                  valor  del  patrimonio  fideicometido  sea  superior  o  equivalente,  en  todo  momento  o  por  lo  menos  al 
+                  cierre diario de operaciones, al valor del dinero electrónico emitido. 
+                   
+                  Artículo 13.- Fondos de los patrimonios fideicometidos 
+                  Los fondos de los patrimonios fideicometidos constituidos por los emisores de dinero electrónico, solo 
+                  podrán ser invertidos por el fiduciario,  de la siguiente  forma: 
+                   
+                  a)  Depósitos de disposición inmediata que generen intereses en empresas de operaciones múltiples 
+                     clasificadas  en  categoría  “A+”,  de  acuerdo  con  lo  establecido  en  el  Reglamento  para  la 
+                     Clasificación  de  Empresas  del  Sistema  Financiero  y  de  Empresas  del  Sistema  de  Seguros, 
+                                                                               
+                  20 Título derogado por la Resolución SBS N° 2304-2020 vigente a partir del 23.10.2020 
+                  21 Título sustituido por la Resolución SBS N° 465-2017 de 02 de febrero de 2017. 
+                                   aprobado  por  la  Resolución  SBS  N°  18400-2010;  así  como  depósitos  en  el  Banco Central de 
+                                   Reserva del Perú. La Superintendencia podrá requerir la diversificación de los referidos depósitos 
+                                   en más de una empresa de operaciones múltiples  clasificadas en categoría  “A+”. 
+                             b)  Hasta un máximo del treinta (30%) de los recursos recibidos en bonos del Tesoro o instrumentos 
+                                   emitidos por el Banco Central de Reserva del Perú. 
+                             c)    Otros activos líquidos que autorice la Superintendencia, la cual podrá requerir la diversificación de 
+                                   las inversiones, según instrumento  de inversión y empresa. 
+                              
+                             En caso el valor del patrimonio fideicometido sea menor al valor del dinero electrónico emitido, dicha 
+                             diferencia deberá ser cubierta con activos líquidos de propiedad del emisor de dinero electrónico. Los 
+                             rendimientos  del  patrimonio  fideicometido  no  serán  de  libre  disponibilidad  para  el  fideicomitente, 
+                             pasando a formar parte de dicho patrimonio  fideicometido. 
+                              
+                             Las  inversiones  a  que  se  refieren  los  literales  b)  y  c)  deberán  valorizarse  al  valor  razonable  de 
+                             acuerdo con las normas emitidas por la Superintendencia. 
+                              
+                              
+                             DISPOSICIONES FINALES Y COMPLEMENTARIAS 
+                              
+                             Primera.-  Esta  Superintendencia  podrá  considerar  como  dinero  electrónico  a  aquellos  servicios 
+                             brindados  por  empresas  supervisadas  por  ella,  que  presenten  características  similares  a  las 
+                             establecidas  en el artículo  2° de la Ley. 
+                              
+                             Segunda.-22  Las  empresas  de  operaciones  múltiples  autorizadas  a  emitir  dinero  electrónico  no 
+                             deberán  considerar  los  activos  ni  los  pasivos  correspondientes  al  dinero  electrónico  emitido para la 
+                             elaboración de los Anexos N° 15-A “Reporte de tesorería y posición diaria de liquidez”, N° 15-B “Ratio 
+                             de  cobertura  de  liquidez“  y  N°  15-C  “Posición  mensual  de  liquidez”  del  Manual  de  Contabilidad 
+                             contemplados  en  el  Reglamento  para  la  Gestión  del Riesgo de Liquidez aprobado por la Resolución 
+                             SBS N° 9075-2012 y sus normas modificatorias. 
+                                     
+                             Asimismo, solo deberán considerar para la elaboración de los Anexos N° 16-A “Cuadro de Liquidez 
+                             por Plazos de Vencimiento” y N° 16-B “Simulación de Escenarios de Estrés y Plan de Contingencia”, 
+                             los pasivos netos correspondientes al dinero electrónico emitido. 
+                                     
+                                        12
+                             Tercera.-   Para  la  elaboración  de  los  Anexos  7-A  “Medición  del  Riesgo  de  Tasa  de  Interés  – 
+                             Ganancias en Riesgo” y 7-B “Medición del Riesgo de Tasa de Interés – Valor Patrimonial en Riesgo”, 
+                             las  empresas  de operaciones múltiples autorizadas a emitir dinero electrónico no deberán considerar 
+                             los activos ni los pasivos correspondientes al dinero electrónico emitido. 
+                                     
+                                      23
+                             Cuarta .-  Las cuentas operativas de dinero electrónico, así como las cuentas de dinero electrónico 
+                             abiertas por personas jurídicas, se encuentran sujetas a las disposiciones contempladas en el Título III 
+                             -  Aspectos aplicables en materia de transparencia de información, contratación y servicios de atención 
+                             al  usuario,  en  lo  que  resulte  pertinente,  considerando  que  no  les  resulta  aplicable  el  Código  de 
+                             Protección  y  Defensa  del  Consumidor  -  Ley  N°  29571  y  sus  normas  modificatorias,  ni  la  Ley 
+                             Complementaria a la Ley de Protección al Consumidor en Materia de Servicios Financieros - Ley N° 
+                             28587 y sus normas complementarias. Respecto de las disposiciones en materia de transparencia de 
+                                                                                          
+                             22 Disposición sustituida por la Resolución SBS N° 465-2017 de 02 de febrero de 2017. 
+                             23 Disposición incorporada por la Resolución SBS N°4628 de 13/08/2015 y sustituida por la Resolución SBS N° 465-2017 de 
+                             02 de febrero de 2017. 
+                              
+                   información  aplicables  a  dichas  cuentas,  los  emisores  se  sujetan  a  la  tercera  disposición  final  y 
+                   complementaria del Reglamento de Transparencia, en lo que corresponda. 
+                    
+                   Quinta.-24 La intervención, así como la disolución y liquidación de un emisor de dinero electrónico no 
+                   afecta  a  los  recursos  que  deben  ser  destinados  por  dicha  empresa  a  constituir  el  patrimonio 
+                   fideicometido  para respaldar a los tenedores de cuentas de dinero electrónico, de conformidad con el 
+                   artículo  15° de este Reglamento.   
+                    
+                   Las  cuentas  de  dinero  electrónico  serán  transferidas  a  otro  emisor  conforme  lo  determine  la 
+                   Superintendencia,  mediante  resolución  específica,  garantizándose  en  todo  momento  la  integridad  de 
+                   los fondos del público. 
+                    
+                   En aplicación  de  lo  establecido  en  numeral  5  del artículo 118° de la Ley General, los pagos que el 
+                   emisor deba realizar para cubrir las obligaciones resultantes de la compensación de dinero electrónico 
+                   a  que  se  refiere  el  Reglamento  de  los  Acuerdos  de  Pago  de  Dinero  Electrónico,  se  encuentran 
+                   excluidos de la masa para fines del proceso de liquidación. 
+                    
+                    
+                   DISPOSICIÓN TRANSITORIA 
+                    
+                   Las empresas supervisadas que al momento de la entrada en vigencia de la presente norma, brinden 
+                   servicios  que  se consideren dinero electrónico, los deberán identificar y ponerlos en conocimiento de 
+                   esta  Superintendencia,  dentro  de  los  quince  15  días  calendario  de  la  entrada  en  vigencia  de  la 
+                   presente norma, para los fines pertinentes.” 
+                    
+                                                   Artículo Segundo.- Los servicios financieros a los que se 
+                   refieren  la  Segunda  Disposición  Complementaria  Final  de  la  Ley  N°  29985  y  el  artículo  12°  del 
+                   Reglamento  de  la  Ley  Nº  29985  que  Regula  las  Características  Básicas  del  Dinero  Electrónico, 
+                   aprobado por Decreto Supremo N° 090-2013-EF, consideran a los productos y servicios brindados a 
+                   los usuarios que impliquen el uso de servicios de telecomunicaciones, en especial a los servicios que 
+                   usan el teléfono  móvil como soporte. 
+                                                    
+                                                   Artículo  Tercero.-  Modificar  el  Manual  de  Contabilidad 
+                   para  las  Empresas  del  Sistema  Financiero,  conforme  al  Anexo  adjunto  a  la presente resolución, el 
+                   cual se publica en el Portal Institucional (www.sbs.gob.pe), según lo dispuesto en el Decreto Supremo 
+                   N° 001-2009-JUS. 
+                                                    
+                                                   Artículo Cuarto.- La presente Resolución entra en vigencia 
+                   al  día  siguiente  de  su  publicación  en  el  diario  oficial  El  Peruano,  salvo  lo  dispuesto  en  el  artículo 
+                   tercero que entrará en vigencia para la información correspondiente  al mes de enero de 2014.  
+                    
+                   Las  empresas  que  al  momento  de  la  entrada  en  vigencia  del  Reglamento  de las Operaciones con 
+                   Dinero  Electrónico  brinden  servicios  que  se consideren dinero electrónico, tendrán sesenta (60) días 
+                   calendario para adecuarse a lo establecido  en el Reglamento  antes mencionado. 
+                    
+                    
+                                           Regístrese,  comuníquese y publíquese.   
+                    
+                    
+                                                                                
+                   24 Disposición incorporada por la Resolución SBS N° 465-2017 de 02 de febrero de 2017. 
+                   
+                   
+                                          JAVIER POGGI CAMPODÓNICO 
+                                         Superintendente  de Banca, Seguros y 
+                                  Administradoras Privadas de Fondos de Pensiones (a.i.) 
+                   
+                    

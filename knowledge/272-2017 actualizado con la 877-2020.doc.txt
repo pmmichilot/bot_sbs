@@ -1,0 +1,1570 @@
+                                   
+                                                                                                                                               
+                                                        
+                                                                Lima,  18 de enero de 2017      
+                                                           
+                                       Resolución S.B.S. 
+                                         N°   272 -2017 
+                             La Superintendenta de Banca y Seguros y 
+                         Administradoras Privadas de Fondos de Pensiones  
+                                                  
+                 
+                 
+                                            CONSIDERANDO: 
+                 
+                                           Que,  el  Reglamento  de  la  Gestión  Integral  de  Riesgos, 
+                aprobado por la Resolución SBS N° 37-2008 y sus normas modificatorias, en adelante el Reglamento, 
+                tiene por finalidad establecer que las empresas supervisadas comprendidas en los artículos 16° y 17° 
+                de  la  Ley  General  del  Sistema  Financiero  y  del  Sistema  de  Seguros  y  Orgánica  de  la 
+                Superintendencia de Banca y Seguros, Ley Nº 26702 y sus leyes modificatorias, en adelante Ley 
+                General, así como las Administradoras Privadas de Fondos de Pensiones, y demás entidades sujetas 
+                a la supervisión de este Organismo de Control, cuenten con una gestión integral de riesgos adecuada 
+                a  su  naturaleza,  tamaño  y  a  la  complejidad  de  sus  operaciones  y  servicios,  en  el  marco  de  lo 
+                dispuesto por la normativa vigente; 
+                                           Que,  mediante  la  Resolución  SBS  Nº  11699-2008  y  sus 
+                modificatorias, se aprobó el Reglamento de Auditoría Interna; 
+                                            
+                                           Que,  sobre  la  base  de  lo  dispuesto  en  la  Ley  Nº  29903, 
+                mediante la Resolución SBS Nº 6422-2015 se reguló la designación de directores independientes por 
+                parte de las Administradoras Privadas de Fondos de Pensiones, los encargos que les compete realizar, 
+                así como su vinculación con los procedimientos de revelación correspondiente; 
+                 
+                                           Que, sobre la experiencia en supervisión y los estándares 
+                internacionales, resulta necesario modificar la normativa vigente para fomentar una mejor gestión de 
+                riesgos y gobierno corporativo en las empresas bajo supervisión de la Superintendencia;  
+                 
+                                           Que, en este sentido es necesario desarrollar y establecer 
+                criterios  relacionados  al  gobierno  corporativo,  como  aquellos  referidos  al  director  independiente, 
+                comités del directorio, el sistema de remuneraciones, conducta de mercado  y la gestión de conflictos 
+                de intereses; 
+                                            
+                                           Que,  asimismo,  resulta  necesario  revisar  aspectos 
+                relacionados a la gestión integral de riesgos, tales como la función de cumplimiento normativo,  a fin 
+                de fortalecer el desempeño y responsabilidad de las empresas; 
+                                            
+                            Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                       
+                                                                                                                                                
+                         
+                                                                 Que,  a  efectos  de  recoger  las  opiniones  del  público  en 
+                        general respecto a la propuesta de modificación de la normativa, se dispuso la prepublicación del 
+                        proyecto de resolución, al amparo de lo dispuesto en el Decreto Supremo Nº 001-2009-JUS; 
+                                                                  
+                                                                 Con el visto bueno de las Superintendencias Adjuntas de 
+                        Banca  y  Microfinanzas,  de  Administradoras  Privadas  de  Fondos  de  Pensiones,  de  Seguros,  de 
+                        Riesgos,  de  Asesoría  Jurídica,  de  Conducta  de  Mercado  e  Inclusión  Financiera  y  de  Estudios 
+                        Económicos; y, 
+                                                                  
+                                                                 En uso de las atribuciones conferidas por los numerales 7 y 
+                        9 del artículo 349° de la Ley General,  
+                                                                  
+                                                                 RESUELVE: 
+                                                                  
+                                                                 Artículo  Primero.-    Aprobar  el  Reglamento  de  Gobierno 
+                        Corporativo y de la Gestión Integral de Riesgos, que forma parte de la presente Resolución: 
+                          “REGLAMENTO DE GOBIERNO CORPORATIVO Y DE LA GESTIÓN INTEGRAL DE RIESGOS  
+                         
+                                                                      ÍNDICE  
+                         
+                        Título I                  Disposiciones Generales 
+                         
+                        Título II                 Gobierno Corporativo 
+                          Capítulo I              Aspectos Generales 
+                          Capítulo II             Órganos de Gobierno de la Empresa  
+                            Subcapítulo I         Directorio 
+                            Subcapítulo II        Comités del Directorio 
+                            Subcapítulo III       Gerencia 
+                          Capítulo III            Conflictos de Intereses y Prácticas Cuestionables 
+                          Capítulo IV             Sistema de Remuneraciones 
+                                    1
+                          Capítulo V                    Evaluación de requisitos e impedimentos de accionistas, directores,  
+                                                  gerentes y principales funcionarios 
+                            Subcapítulo I         Disposiciones Generales 
+                            Subcapítulo II        Requisitos e Impedimentos 
+                              Subcapítulo III     Evaluación por parte de la empresa 
+                            Subcapítulo I         Supervisión por parte de la Superintendencia 
+                           
+                        Título III                Gestión Integral de Riesgos 
+                          Capítulo I              Aspectos Generales 
+                          Capítulo II             Unidad de Riesgos 
+                          Capítulo III                     Cumplimiento Normativo 
+                                                                                              2
+                          Capítulo IV                     Bienes y/o servicios provistos por terceros  
+                                                                        
+                        1
+                          Incorporado por Resolución SBS No. 211-2021, vigente a partir del 1 de febrero de 2021, adecuación  1 de 
+                        noviembre de 2021 
+                        2
+                          Sustituido por la Resolución SBS N° 504-2021 del 22/02/2021 vigente a partir del 01.07.2021. 
+                         
+                         
+                                                                         
+                                          Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+             
+                                                                                                                       
+              
+               
+              
+             Disposiciones Finales y Complementarias 
+              
+                                       
+                       Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                        
+                                                                                                                                                   
+                           
+                                                                                
+                             REGLAMENTO DE GOBIERNO CORPORATIVO Y DE LA GESTIÓN INTEGRAL DE RIESGOS  
+                           
+                                                                          TITULO I 
+                                                              DISPOSICIONES GENERALES 
+                           
+                          Artículo 1°.-     Alcance 
+                          El presente Reglamento es de aplicación a las empresas señaladas en los artículos 16° y 17° de la 
+                          Ley General, así como a las Administradoras Privadas de Fondos de Pensiones (AFP). Asimismo, es 
+                          de aplicación al Banco de la Nación, el Banco Agropecuario, la Corporación Financiera de Desarrollo 
+                          (COFIDE),  el  Fondo  MIVIVIENDA  S.A.,  las  Derramas  y  Cajas  de  Beneficios  bajo  control  de  la 
+                          Superintendencia, la Federación Peruana de Cajas Municipales de Ahorro y Crédito (FEPCMAC) y el 
+                          Fondo de Cajas Municipales de Ahorro y Crédito (FOCMAC).  
+                           
+                          Las  disposiciones  contenidas  en  el  Reglamento  resultan  aplicables  a  las  entidades  previamente 
+                          señaladas, en adelante empresas, en tanto no se contrapongan con las normas específicas que las 
+                          regulan. 
+                           
+                          Artículo 2°.-     Definiciones y/o referencias 
+                          Para la aplicación del Reglamento deben considerarse las siguientes definiciones y/o referencias: 
+                          a)    Apetito por el riesgo.- el nivel de riesgo que la empresa está dispuesta a asumir dentro de su 
+                                capacidad de riesgo, para alcanzar sus objetivos. 
+                          b)    Beneficiario Final.- de acuerdo con el Reglamento de adquisición de la propiedad en el capital 
+                                social  de  las  empresas  supervisadas  y  de  los  propietarios  significativos,  aprobado  por 
+                                Resolución SBS N° 6420-2015.  
+                          c)    Capacidad de riesgo.- el nivel máximo de riesgo que puede asumir una empresa dados sus 
+                                recursos actuales, requerimientos regulatorios y obligaciones contractuales. 
+                          d)    Casa Matriz.- persona jurídica o ente jurídico que ejerce control sobre otras personas o entes 
+                                jurídicos, y que puede o no corresponder a una holding. Para este efecto, control se entiende de 
+                                conformidad  con  las  Normas  especiales  sobre  vinculación  y  grupo  económico,  aprobadas 
+                                mediante Resolución SBS Nº 5780-2015. 
+                          e)    Cláusulas de blindaje (“golden parachutes”).- acuerdos contractuales entre una empresa y sus 
+                                trabajadores  y  miembros  del  directorio  que  evitan  que  estos  sean  despedidos  en  caso  la 
+                                propiedad y/o control de la empresa  pase a otro grupo de accionistas; o, que les aseguren 
+                                indemnizaciones,  independientemente  de  su  desempeño,  en  caso  sean  despedidos  por  los 
+                                nuevos accionistas.  
+                          f)    Conducta de mercado.- prácticas de las empresas en su relación con los usuarios, respecto de la 
+                                oferta  de  productos  y  servicios  financieros,  la  transparencia  de  información  y  la  gestión  de 
+                                reclamos.  
+                          g)    Conflicto de intereses.- situación en la que una persona u órgano de gobierno de la empresa se 
+                                enfrentan a distintas alternativas de conducta con intereses incompatibles entre sí debido, entre 
+                                otras causas, a la falta de alineamiento entre sus intereses y los de la empresa. 
+                          h)    Control interno.- un proceso realizado por el directorio, la gerencia y el personal, diseñado para 
+                                proveer un aseguramiento razonable en el logro de objetivos referidos a la eficacia y eficiencia 
+                           
+                                                                              
+                                             Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                                  
+                                                                                                                                                                            
+                                      
+                                             de  las  operaciones,  confiabilidad  de  la  información  financiera,  y  cumplimiento  de  las  leyes 
+                                             aplicables y regulaciones. 
+                                     i)      Días.- días calendario. 
+                                     j)      Directorio.-  toda  referencia  al  directorio,  alude  también  a  cualquier  órgano  de  gobierno 
+                                             equivalente. 
+                                     k)      Director  Independiente.-  es  aquel  que  es  seleccionado  por  su  prestigio  profesional  e 
+                                             independencia económica y que no tiene ni ha tenido, en los últimos tres (3) años consecutivos 
+                                             anteriores a su designación, vinculación con la empresa, su administración, grupo económico o 
+                                             sus  accionistas  principales,  entendiéndose  a  estos  últimos  como  aquellos  que  tienen  la 
+                                             propiedad del cinco por ciento (5%) o más de las acciones de la empresa. La vinculación se 
+                                             define en las Normas especiales sobre vinculación y grupo económico, aprobadas mediante 
+                                             Resolución SBS Nº 5780-2015.  
+                                     l)      Evento.- un suceso o serie de sucesos que puede ser interno o externo a la empresa, originado 
+                                                                                                                                                    3
+                                             por la misma causa, que ocurre durante el mismo periodo de tiempo.  
+                                     m)  Gobierno corporativo.- es el conjunto de procesos, políticas, normas y prácticas que determinan 
+                                             cómo una empresa o un grupo es dirigido, gestionado y controlado. 
+                                     n)      Hechos significativos.- aquellos hechos que pueden tener impacto importante sobre la situación 
+                                             financiera de la empresa, o sobre el logro de sus objetivos. 
+                                     o)      Impacto.- medición cualitativa o cuantitativa de las consecuencias de un evento. Usualmente se 
+                                             expresará en términos monetarios, como pérdidas financieras.  
+                                     p)      Junta  General  de  Accionistas.-  toda  referencia  a  la  junta  general  de  accionistas  u  órganos 
+                                             similares. Sus principales atribuciones se encuentran comprendidas en la Ley General y en la 
+                                             Ley General de Sociedades. 
+                                     q)      Ley General.- Ley General del Sistema Financiero y del Sistema de Seguros y Orgánica de la 
+                                             Superintendencia de Banca y Seguros, Ley Nº 26702 y sus normas modificatorias. 
+                                     r)      Ley General de Sociedades.- Ley Nº 26887 y sus normas modificatorias. 
+                                     s)      Límites  de  riesgo.-  es  el  nivel  máximo  de  riesgo,  en  función  al  apetito,    expresado 
+                                             preferentemente  en  medidas  cuantitativas  por  líneas  de  negocio,  tipos  de  riesgo, 
+                                             concentraciones,  u  otros  apropiados  a  la  complejidad  de  las  operaciones  y  servicios  de  la 
+                                             empresa y el sector al que pertenece.  
+                                     t)      Manuales de gestión de riesgos.- documentos que contienen las funciones, responsabilidades, 
+                                             políticas,  metodologías  y  procedimientos  dispuestos  para  la  identificación,  evaluación, 
+                                             tratamiento, control, reporte y monitoreo de los riesgos de las empresas. 
+                                     u)      Manuales de organización y funciones.- documentos que detallan la estructura orgánica de las 
+                                             empresas,  los  objetivos  y  funciones  de  sus  unidades,  así  como  las  obligaciones  y 
+                                             responsabilidades de su personal. 
+                                     v)      Manuales  de  políticas  y  procedimientos.-  documentos  que  contienen  responsabilidades, 
+                                             políticas, metodologías y procedimientos establecidos por las empresas para la realización de las 
+                                             actividades de cada una de las unidades con las que cuenta, incluyendo las que corresponden a 
+                                             la gestión de riesgos. 
+                                     w)      Nuevo producto.- producto lanzado por primera vez por la empresa o un cambio en un producto 
+                                             existente que modifica significativamente su perfil de riesgo. 
+                                     x)      Operaciones con partes vinculadas.- de acuerdo con la definición establecida en las Normas 
+                                             especiales sobre vinculación y grupo económico, aprobado mediante Resolución SBS Nº 5780-
+                                             2015. 
+                                                                                     
+                                     3
+                                        Literal modificado por la Resolución SBS N° 877-2020 del 26/02/2020 vigente a partir del 01/01/2022 
+                                      
+                                      
+                                                                                                               
+                                                                 Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                           
+                                                                                                                                                         
+                              
+                             y)    Principales funcionarios.- aquellos comprendidos en las Normas Complementarias a la elección 
+                                   de Directores, Gerentes y Auditores Internos, aprobadas por la Resolución SBS Nº 1913-2004, 
+                                                                                                                           4
+                                   en  concordancia  con  lo  establecido  en  la  Circular  SBS  N°  G-0119-2004 ,  Normas  para  el 
+                                   Registro de Directores, Gerentes y Principales Funcionarios – REDIR. 
+                             z)    Proceso.-  conjunto  de  actividades,  tareas  y  procedimientos  organizados  y  repetibles  que 
+                                   producen un resultado esperado. 
+                                                                                                                                         5
+                             aa)  Productos.- Operaciones y/o servicios brindados por la empresa a sus clientes y usuarios.  
+                             bb)  Reglamento.- Reglamento de Gobierno Corporativo y de la Gestión Integral de Riesgos. 
+                             cc)  Remuneración.- comprende todas las formas de beneficios pagados, por pagar o suministrados 
+                                   por la  empresa, o en nombre de esta, a cambio de servicios prestados a la empresa. Esta 
+                                   remuneración puede incluir beneficios monetarios  o no monetarios.  
+                             dd)  Remuneración  Fija.-  aquella  remuneración  que  en  forma  periódica,  semanal,  quincenal  o 
+                                   mensual, percibe el trabajador, siendo fija en la medida que su monto y período de pago sea de 
+                                   carácter regular. 
+                             ee)  Remuneración Variable.- es toda remuneración distinta a la remuneración fija.  
+                             ff)   Riesgo.- la posibilidad de ocurrencia de eventos que impacten negativamente sobre los objetivos 
+                                   de la empresa o su situación financiera.  
+                             gg)  Seguridad razonable.- se refiere al nivel de certeza que una empresa puede tener respecto al 
+                                   logro  de  sus  objetivos,  considerando  que  siempre  es  posible  que  se  produzcan  hechos 
+                                   significativos  que  no  sean  prevenidos  o  detectados  oportunamente,  dada  la  incertidumbre 
+                                   inherente al futuro. 
+                             hh)  Sistema de apetito por el riesgo.- conjunto de políticas, límites, procesos, procedimientos, roles y 
+                                   responsabilidades mediante los cuales el apetito por el riesgo es establecido, comunicado y 
+                                   vigilado.   
+                             ii)   Sistema  de  remuneraciones.-  conjunto  de  políticas,  estrategias,  procedimientos  y  recursos 
+                                   empleados por la empresa para el otorgamiento de remuneraciones, los cuales incluyen criterios 
+                                   de evaluación, periodicidad de pago, formas de pago, entre otros. 
+                             jj)   Subcontratación.- modalidad mediante la cual una empresa contrata a un proveedor para que 
+                                                                                                                      6
+                                   este entregue bienes y/o servicios que podrían ser desarrollados por ella.  
+                             kk)  Superintendencia.- Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos 
+                                   de Pensiones. 
+                             ll)   Usuario.- persona natural o jurídica que utiliza o puede utilizar los productos ofrecidos por las 
+                                   empresas. 
+                             mm) Reglamento de Autorización: Reglamento de autorización de empresas y representantes de los 
+                                                                                                                             7
+                                   Sistemas Financiero y de Seguros, aprobado por Resolución SBS N°211-2021.  
+                             nn)  Idoneidad moral: De acuerdo con la definición establecida en el inciso o) del artículo 2 del 
+                                                                       8
+                                   Reglamento de de Autorización.  
+                             oo)  Idoneidad técnica: De acuerdo con la definición establecida en el inciso p) del artículo 2 del 
+                                   Reglamento de de Autorización. Incluye el desempeño eficaz de la persona en la función para la 
+                                                             9
+                                   que ha sido designada.  
+                                                                             
+                             4
+                               Circular derogada por la Circular 213-2021 a partir del 1 de noviembre 2021 
+                             5
+                               Literal modificado por la Resolución SBS N° 877-2020 del 26/02/2020 vigente a partir del 01/01/2022 
+                             6
+                               Modificado por la Resolución SBS N° 504-2021 del 22/02/2021 vigente a partir del 01.07.2021. 
+                             7
+                               Incorporado por Resolución SBS No. 211-2021, vigente a partir del 1 de febrero de 2021, adecuación  1 de 
+                             noviembre de 2021 
+                             8
+                               Incorporado por Resolución SBS No.211-2021, vigente a partir del 1 de febrero de 2021, adecuación  1 de 
+                             noviembre de 2021 
+                              
+                                                                                     
+                                                  Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                               
+                                                                                                                                                                    
+                                   
+                                  pp)  Solvencia económica: De acuerdo con la definición establecida en el inciso z) del artículo 2 del 
+                                                                                   10
+                                         Reglamento de de Autorización.  
+                                  qq)  Reglamento de la Ley del SPP: Reglamento del Texto Único Ordenado de la Ley del Sistema 
+                                         Privado  de  Pensiones,  aprobado  por  el  Decreto  Supremo  N°054-97-EF  y  sus  normas 
+                                                            11
+                                         modificatorias.  
+                                  rr)    Proveedor: tercero contratado para brindar bienes y/o servicios a una empresa, incluso bajo la 
+                                         modalidad de subcontratación. Las empresas que forman parte del mismo grupo económico que 
+                                         la empresa contratante también son consideradas como terceros.12 
+                                          
+                                          
+                                                                                               TITULO II 
+                                                                                  GOBIERNO CORPORATIVO 
+                                                                                             CAPÍTULO I 
+                                                                                    ASPECTOS GENERALES 
+                                   
+                                 Artículo 3°.-           Gobierno corporativo 
+                                  Las empresas deben definir principios y lineamientos generales para la adopción e implementación de 
+                                  prácticas de gobierno corporativo que sirvan de guía para el accionar de los órganos de gobierno de la 
+                                  empresa. 
+                                              
+                                  La estructura del gobierno corporativo especifica la distribución de los derechos y responsabilidades 
+                                  entre los diferentes órganos de gobierno y grupos de interés. El gobierno corporativo también provee 
+                                  la estructura a través de la cual se establecen los objetivos de la empresa, los medios para alcanzar 
+                                  estos objetivos, así como la forma de hacer un seguimiento de su desempeño.  
+                                   
+                                  El  directorio  y  la  gerencia  deben  asegurar  razonablemente  la  adopción  de  las  mejores  prácticas 
+                                  relacionadas al gobierno corporativo. 
+                                   
+                                  Las empresas deben contar con un marco de gobierno corporativo que considere, cuando menos los 
+                                  siguientes lineamientos: 
+                                  a)     La  estructura  y  organización  corporativas  consistentes  con  la  naturaleza  y  el  tamaño  de  la 
+                                         empresa,  con  el  grupo  al  que  ella  pertenece,  y,  con  la  complejidad  de  sus  operaciones  y 
+                                         servicios.  
+                                  b)     La  idoneidad  moral  y  solvencia  económica  de  los  accionistas  y  beneficiarios  finales  de  la 
+                                         empresa. 
+                                                                                                                                                                       
+                                  9
+                                    Incorporado por Resolución SBS No.211 -2021, vigente a partir del 1 de febrero de 2021, adecuación  1 de 
+                                  noviembre de 2021 
+                                  10
+                                     Incorporado por Resolución SBS No. 211-2021, vigente a partir del 1 de febrero de 2021, adecuación  1 de 
+                                  noviembre de 2021 
+                                  11
+                                     Incorporado por Resolución SBS No. 211-2021, vigente a partir del 1 de febrero de 2021 
+                                  12
+                                     Incorporado por la Resolución SBS N° 504-2021 del 22/02/2021 vigente a partir del 01.07.2021. 
+                                   
+                                   
+                                                                                                    
+                                                           Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                           
+                                                                                                                                                         
+                              
+                             c)    La idoneidad técnica y moral de los directores, gerentes y principales funcionarios de la empresa; 
+                                   así como sus calificaciones y habilidades para la razonable e imparcial toma de decisiones en los 
+                                   negocios, la gestión de los riesgos y el control. 
+                             d)    La cultura y valores corporativos, así como los criterios de responsabilidad profesional exigibles a 
+                                   los  directores, gerentes, funcionarios y demás trabajadores. 
+                             e)    Los mecanismos para un eficaz monitoreo y control de la gestión de la gerencia por parte del 
+                                   directorio; así como las responsabilidades del directorio y de la gerencia ante la empresa, los 
+                                   accionistas y los grupos de interés de la empresa. 
+                             f)    Los mecanismos de la empresa para la gestión objetiva, íntegra e independiente de los conflictos 
+                                   de intereses. 
+                             g)    Las  políticas  generales  de  remuneraciones  alineadas  con  los  objetivos  a  largo  plazo  de  la 
+                                   empresa, así como la asunción de riesgos prudente. 
+                             h)    El marco para la gestión integral de los riesgos que enfrenta la empresa, consistente con la 
+                                   naturaleza, tamaño y complejidad de sus operaciones y servicios. 
+                             i)    Un control interno sólido; así como un desempeño efectivo de las funciones de auditoría interna y 
+                                   de cumplimiento normativo. 
+                             j)    El establecimiento de un trato equitativo para todos los accionistas, incluidos los minoritarios y 
+                                   los extranjeros, quedando prohibido cualquier tipo de acción que pudiera significar un obstáculo 
+                                   al ejercicio de sus derechos. 
+                             k)    Las  políticas  de  revelación  de  información,  principalmente  aquellas  referidas  a  la  situación 
+                                   financiera, la propiedad, y el gobierno de la entidad. 
+                             l)    Las  políticas  generales  para  incorporar  una  adecuada  conducta  de  mercado  en  la  cultura 
+                                   organizacional y estrategia de negocio. 
+                              
+                             Adicionalmente, las empresas deben contar con un Código de Ética y Conducta, con los criterios de 
+                             responsabilidad profesional exigibles a sus directores, gerentes, funcionarios y demás trabajadores y 
+                             que prohíba expresamente actividades ilegales o conductas que podrían afectar la reputación de la 
+                             empresa o la confianza en el sistema. 
+                                                                                        
+                                                                               CAPÍTULO II 
+                                                            ÓRGANOS DE GOBIERNO DE LA EMPRESA  
+                                                                                        
+                                                                             SUBCAPÍTULO I 
+                                                                                        
+                                                                               DIRECTORIO 
+                                                                                        
+                                                                                   13
+                             Artículo 4°.-       Conformación del directorio  
+                             El directorio está compuesto por un número de miembros que sea suficiente para un desempeño 
+                             eficaz y participativo, y que posibilite la conformación de los comités de directorio que establece el 
+                             Reglamento. Está conformado por personas con especialidades y competencias que faciliten una 
+                             pluralidad de enfoques y opiniones, y que tengan habilidades y conocimientos, de forma tal que en su 
+                                                                             
+                             13
+                               Modificado por Resolución SBS No. 211-2021, vigente a partir del 1 de febrero de 2021, adecuación  1 de 
+                             noviembre de 2021 
+                              
+                              
+                                                                                     
+                                                  Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                        
+                                                                                                                                                   
+                           
+                          conjunto procuren un entendimiento razonable de la actividad que desarrolla la empresa,  del mercado 
+                          y del entorno regulatorio, para así poder cumplir con sus funciones.  
+                           
+                          El número de directores está contenido en el estatuto, de conformidad con la Ley General, la Ley 
+                          General de Sociedades y las normas específicas aplicables a cada empresa. Los nombres de los 
+                          directores,  su  calidad  de  independiente  o  no,  deben  mostrarse  en  los  reportes  regulatorios  que 
+                          requiere la Superintendencia, además de ser publicados en la memoria anual de la empresa. 
+                           
+                           
+                          Artículo 5°.-     Reglamento del directorio 
+                          El directorio debe aprobar el reglamento que contendrá las políticas y lineamientos necesarios para el 
+                          cumplimiento de sus funciones, salvo que el estatuto reserve esa facultad a la junta  general  de 
+                          accionistas. 
+                           
+                          Este documento se encontrará a disposición de la Superintendencia y debe contener, cuando menos, 
+                          lo siguiente: 
+                          a)    Las funciones y responsabilidades del presidente del directorio y de sus miembros. 
+                          b)    Lineamientos para el desarrollo de planes de trabajo a cargo de miembros del directorio que 
+                                contribuyan al desempeño de las  funciones  de este órgano de gobierno. 
+                          c)    Políticas y procedimientos para prevenir, detectar, manejar y revelar los conflictos de intereses 
+                                de los directores. 
+                          d)    Plan de sucesión del directorio que debe contener, cuando menos: i) las causales de vacancia 
+                                establecidas en la Ley General de Sociedades o aquellas adicionales establecidas en el estatuto; 
+                                ii) los criterios y el procedimiento de remoción del director y del nombramiento del reemplazante; 
+                                y iii) la política y procedimiento de comunicación a la Superintendencia de la vacancia, remoción 
+                                y/o elección, conforme a lo dispuesto en la Ley General. 
+                          e)    Políticas  y  procedimiento  para  informar  al  directorio  sobre  las  comunicaciones  de  la 
+                                Superintendencia. 
+                          f)    Procedimiento para otorgar licencias a directores, así como la asistencia del director suplente o 
+                                alterno. 
+                          g)    Criterios de idoneidad técnica y moral para la selección de la plana gerencial. 
+                          h)    En caso lo permita el estatuto de la empresa, políticas y lineamientos para la realización de 
+                                sesiones de directorio no presenciales a través de medios de comunicación que permitan la 
+                                adopción de acuerdos y garanticen su autenticidad. 
+                          i)    En caso el directorio haya acordado una autoevaluación de su desempeño, los criterios utilizados 
+                                para dicha autoevaluación. 
+                                 
+                          Artículo 6°.-     Director independiente  
+                          El directorio de las empresas debe contar con directores independientes. En tanto no se contraponga 
+                          con sus normas específicas, las empresas deben contar, al menos, con un (1) director independiente 
+                          en caso tengan cinco (5) o menos directores, o con dos (2) directores independientes en caso tengan 
+                          seis (6) directores o más. 
+                           
+                          El  director  suplente  o  alterno  que  se  elija  para  un  director  independiente  debe  cumplir  con  los 
+                          requisitos para ocupar dicho cargo, señalados en el literal k) del artículo 2 y del presente artículo.  
+                           
+                          El director independiente de una empresa podrá ser director independiente de otras empresas de su 
+                          grupo económico. 
+                           
+                           
+                                                                              
+                                             Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                        
+                                                                                                                                                   
+                           
+                          El director independiente ejerce dicho cargo en la empresa por un plazo máximo de diez (10) años 
+                          contados desde su primera designación. 
+                           
+                          Cada  director  independiente  debe  suscribir  una  declaración  de  cumplimiento  de  los  requisitos 
+                          establecidos en el literal k) del artículo 2° del Reglamento y en el presente artículo, al momento de 
+                          asumir su cargo y luego de cada año de permanencia en él.  
+                           
+                          Artículo 7°.-     Responsabilidades generales del directorio 
+                          Los directores son responsables por:   
+                          a)    Establecer los principales objetivos y metas de la empresa y aprobar su estrategia. 
+                          b)    Establecer un sistema adecuado de delegación de facultades, segregación de funciones y de 
+                                tratamiento de posibles conflictos de intereses a través de toda la empresa. 
+                          c)    Aprobar  los  manuales  de  organización  y  funciones,  de  políticas  y  procedimientos  y  demás 
+                                manuales y normativa interna de la empresa. 
+                          d)    Seleccionar una plana gerencial con idoneidad técnica y moral, que actúe conforme al desarrollo 
+                                de los negocios y operaciones de la empresa, así como evaluar su desempeño. 
+                          e)    Aprobar y vigilar el diseño e implementación del sistema de remuneraciones, y asegurar que se 
+                                encuentre alineado a la  estrategia de negocios de la empresa, su apetito por el riesgo, a sus 
+                                políticas y solidez financiera. 
+                          f)    Aprobar el sistema de apetito por el riesgo de la empresa.  
+                          g)    Establecer  una  gestión  de  riesgos  acorde  a  la  naturaleza,  tamaño  y  complejidad  de  las 
+                                operaciones y servicios de la empresa, que tome en cuenta el entorno competitivo, el entorno 
+                                macroeconómico que afecta a los mercados en los que opera la empresa, los requerimientos 
+                                regulatorios y sus  objetivos a largo plazo. 
+                          h)    Disponer las medidas necesarias para que la empresa opere en línea con su apetito por el 
+                                riesgo, para lo cual debe conocer las necesidades de capital y liquidez asociadas a su estrategia.  
+                          i)    Establecer las políticas y medidas necesarias para que la empresa cuente con una adecuada 
+                                conducta de mercado en su estrategia de negocio. 
+                          j)    Aprobar planes de sucesión para la gerencia. 
+                          k)    Establecer  la  cultura  y  valores  corporativos  de  la  empresa,  así  como  los  criterios  de 
+                                responsabilidad profesional. 
+                          l)    Aprobar  roles  y  responsabilidades  de  la  gerencia,  la  gestión  de  riesgos,  control  interno  y 
+                                cumplimiento normativo. 
+                                 
+                          Artículo 8°.-     Declaración de cumplimiento del directorio 
+                          El  directorio  es  responsable  de  evaluar  el  cumplimiento  de  las  disposiciones  establecidas  en  el 
+                          Reglamento.  Anualmente,  el  directorio  suscribirá  una  declaración  de  cumplimiento,  que  debe 
+                          contener, cuando menos, lo indicado a continuación: 
+                          a)    Que  el  directorio  conoce  los  estándares  previstos  en  el  Reglamento,  así  como  sus 
+                                responsabilidades. 
+                          b)    Que la empresa cumple con los principios y lineamientos establecidos en materia de gobierno 
+                                corporativo. 
+                          c)    Que el directorio comprende la naturaleza y el nivel de riesgo asumidos por la empresa. 
+                          d)    Que la empresa cuenta con una gestión de riesgos consistente con la naturaleza, tamaño y 
+                                complejidad de sus operaciones y servicios; la cual cumple, como mínimo, con los criterios 
+                                indicados  en  el  Reglamento,  con  la  excepción  de  posibles  deficiencias  identificadas  y 
+                                comunicadas en la declaración.  
+                           
+                                                                              
+                                             Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                         
+                                                                                                                                                      
+                            
+                           e)    Que el directorio ha requerido a la gerencia que las políticas, procesos y controles ejecutados 
+                                 por la gerencia, incluyendo una adecuada gestión de riesgos, sean consistentes con la estrategia 
+                                 de la empresa, así como con los niveles de apetito y límites de riesgo. 
+                           f)    Que el directorio ha tomado conocimiento de la información de la gerencia, de los acuerdos e 
+                                 informes del comité de auditoría, del comité de riesgos, del comité de remuneraciones, de la 
+                                 auditoría interna, de la auditoría externa, del oficial de cumplimiento, del oficial de cumplimiento 
+                                 normativo, del oficial de atención al usuario, y de cualquier otra información que el directorio 
+                                 considere relevante, así como de las medidas correctivas que se hayan dispuesto, las que deben 
+                                 constar en las actas correspondientes. 
+                           g)    Que el directorio ha establecido todos los mecanismos necesarios para que en caso lleven a 
+                                 cabo  sesiones  no  presenciales,  ello  no  afecte  o  limite  el  apropiado  cumplimiento  de  sus 
+                                 funciones y responsabilidades. 
+                            
+                           Esta declaración será suscrita en un plazo que no excederá de ciento veinte (120) días posteriores al 
+                           cierre del ejercicio anual, debiendo estar a disposición de la Superintendencia.  
+                            
+                           En caso el directorio haya identificado deficiencias de acuerdo con el literal d), este deberá enviar la 
+                           declaración a la Superintendencia dentro de los cinco (5) días hábiles de suscrita, incluyendo las 
+                           acciones correctivas y los plazos de implementación.  
+                                                                                    
+                                                                                    
+                                                                         SUBCAPÍTULO II 
+                                                                                    
+                                                                   COMITÉS DEL DIRECTORIO 
+                            
+                           Artículo 9°.-       Comités del directorio 
+                           El  directorio  podrá  constituir  los  comités  que  considere  necesarios  con  la  finalidad  de  dar 
+                           cumplimiento a las disposiciones contenidas en el Reglamento.  
+                            
+                           Para el caso de las empresas de operaciones múltiples y las empresas de seguros a las que se refiere 
+                           el artículo 16° de la Ley General, el Banco de la Nación, el Banco Agropecuario, COFIDE, el Fondo 
+                           MIVIVIENDA S.A., así como para las AFP, será obligatoria la constitución de un comité de auditoría,  
+                           un comité de riesgos y un comité de remuneraciones. En el caso de aquellas empresas que no se 
+                           encuentren obligadas a constituir los comités y que, además, decidan no hacerlo, todas las funciones 
+                           serán asumidas por el directorio. 
+                            
+                           La Superintendencia podrá requerir la constitución de otros comités cuando lo considere conveniente 
+                           mediante norma de carácter general.  
+                            
+                           Artículo 10°.-      Reglamento de los comités 
+                           Los comités constituidos por el directorio deben contar con un reglamento que contendrá las políticas 
+                           y procedimientos necesarios para el cumplimiento de sus funciones. Dicho reglamento establecerá, 
+                           cuando menos, los criterios para evitar conflictos de intereses e incompatibilidad de funciones, las 
+                           políticas de rotación de sus miembros, la periodicidad de sus reuniones, programar sus actividades, 
+                           remitir información y reportar al directorio en su sesión más próxima los principales temas tratados y 
+                           acuerdos  adoptados  en  las  sesiones  de  los  comités  con  el  fin  de  hacer  el  seguimiento  del 
+                           cumplimiento de estos. Los acuerdos adoptados en las sesiones de los comités deben constar en un 
+                           libro,  en  hojas  sueltas  o  en  otra  forma  que  permita  la  Ley  General  de  Sociedades,  la  cual  se 
+                           encontrará a disposición de la Superintendencia. 
+                            
+                                                                                  
+                                                Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                        
+                                                                                                                                                  
+                           
+                           
+                         Artículo 11°.-    Conformación del comité de riesgos 
+                          El comité de riesgos debe estar conformado por al menos tres (3) miembros, uno de los cuales debe 
+                          ser un miembro del directorio que no desempeñe cargo ejecutivo en la empresa, quien lo preside no 
+                          pudiendo este presidir ningún otro comité con el que presente conflicto de intereses. El comité de 
+                          riesgos debe organizarse como un comité integral, que debe abarcar las decisiones que atañen a los 
+                          riesgos significativos a los que esté expuesta la empresa. Los integrantes del comité de riesgos deben 
+                          tener los conocimientos y la experiencia necesaria para cumplir adecuadamente sus funciones.  
+                           
+                          El directorio puede crear los comités de riesgos especializados que considere necesarios, en razón de 
+                          la naturaleza, tamaño y complejidad de las operaciones y servicios de la empresa. 
+                           
+                          La Superintendencia puede solicitar a las empresas la creación de comités de riesgos especializados 
+                          de considerarlo necesario. 
+                           
+                         Artículo 12°.-    Funciones del comité de riesgos 
+                          El comité de riesgos, por delegación del directorio y dentro de los límites que este fije, podrá asumir 
+                          las siguientes funciones: 
+                          a)   Aprobar las políticas y la organización para la gestión integral de riesgos acorde a la naturaleza, 
+                               tamaño y complejidad de las operaciones y servicios de la empresa. 
+                          b)   Proponer los límites de riesgo que la empresa está dispuesta a asumir en el desarrollo del 
+                               negocio.  
+                          c)   Decidir las acciones necesarias para la implementación de las medidas correctivas requeridas, 
+                               en caso existan desviaciones con respecto a los niveles de apetito y límites de riesgo y a los 
+                               grados de exposición asumidos. 
+                          d)   Aprobar la toma de exposiciones que involucren variaciones significativas en el perfil de riesgo 
+                               de la empresa o de los patrimonios administrados bajo responsabilidad de la empresa.  
+                          e)   Evaluar la suficiencia de capital y liquidez de la empresa para enfrentar sus riesgos y alertar de 
+                               las posibles insuficiencias. 
+                          f)   Proponer mejoras en la gestión integral de riesgos. 
+                          g)   Aprobar  los  informes  sobre  los  riesgos  asociados  a  nuevos  productos  y  las  medidas  de 
+                               tratamiento propuestas o implementadas, de forma previa a su lanzamiento; incluyendo aspectos 
+                               de conducta de mercado. 
+                          h)   Aprobar los informes sobre los riesgos asociados a los cambios importantes en el ambiente de 
+                               negocios, operativo o informático, de forma previa a su ejecución; así como de las medidas de 
+                               tratamiento propuestas o implementadas. 
+                           
+                         Artículo 13°.-    Conformación del comité de auditoría 
+                          El comité de auditoría debe estar conformado por al menos tres (3) miembros del directorio que no 
+                          desempeñen cargo ejecutivo en la empresa. Los integrantes del comité de auditoría deben tener los 
+                          conocimientos y la experiencia necesaria para cumplir adecuadamente sus funciones.  
+                           
+                          Para el caso de las empresas de operaciones múltiples y las empresas de seguros a las que se refiere 
+                          el  artículo  16°  de  la  Ley  General,  así  como  para  las  AFP,  el  comité  de  auditoría  debe  estar 
+                          conformado por al menos un director independiente, quien lo presidirá no pudiendo este presidir 
+                          ningún otro comité.  
+                           
+                         Artículo 14°.-    Funciones del comité de auditoría 
+                           
+                                                                            
+                                             Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                         
+                                                                                                                                                      
+                            
+                           El comité de auditoría tiene como propósito principal vigilar que los procesos contables y de reporte 
+                           financiero sean apropiados, así como evaluar las actividades realizadas por los auditores internos y 
+                           externos. 
+                            
+                           Entre sus principales funciones están: 
+                           a)    Vigilar el adecuado funcionamiento del control interno. 
+                           b)    Informar  al  directorio  sobre  la  existencia  de  limitaciones  en  la  confiabilidad  de  los  procesos 
+                                 contables y financieros. 
+                           c)    Vigilar y mantener informado al directorio sobre el cumplimiento de las políticas y procedimientos 
+                                 internos y sobre la detección de problemas de control y administración interna, así como de las 
+                                 medidas correctivas implementadas en función de las evaluaciones realizadas por la unidad de 
+                                 auditoría interna, los auditores externos y la Superintendencia. 
+                          d)     De conformidad con las políticas y procedimientos aprobados por el directorio o junta general de 
+                                 accionistas, definir los criterios para la selección y contratación de los auditores externos, evaluar 
+                                 su desempeño, así como determinar los informes complementarios que requieran para el mejor 
+                                 desempeño de sus funciones o el cumplimiento de requisitos legales, salvo en aquellos casos en 
+                                 los que el comité de auditoría de la casa matriz sea quien defina los criterios para la selección, 
+                                 contratación y evaluación de los auditores externos.  
+                           e)    Definir  los  criterios  para  la  selección  y  contratación  del  auditor  interno  y  de  sus  principales 
+                                 colaboradores, y evaluar su desempeño. 
+                            
+                           Artículo 15°.-      Conformación del comité de remuneraciones  
+                           El comité de remuneraciones debe estar conformado por al menos tres (3) miembros, uno de los 
+                           cuales  debe  ser  miembro  del  directorio  que  no  desempeñe  cargo  ejecutivo  en  la  empresa.  Los 
+                           integrantes del comité de remuneraciones deben tener los conocimientos y la experiencia necesaria 
+                           en la gestión del negocio y de los riesgos a los que se encuentra expuesta la empresa para cumplir 
+                           adecuadamente sus funciones.  
+                            
+                           Artículo 16°.-      Funciones del comité de remuneraciones 
+                           El comité de remuneraciones, por delegación del directorio y dentro de los límites que este fije, podrá 
+                           asumir las siguientes funciones: 
+                           a)    Proponer al directorio el sistema de remuneraciones y sus modificaciones, de conformidad con lo 
+                                 establecido en el Capítulo IV de este Título.  
+                           b)    Analizar las propuestas de modificación del sistema de remuneraciones y designar al personal 
+                                 encargado de verificar el cumplimiento de la aplicación de este sistema. 
+                           c)    Evaluar  los  potenciales  conflictos  de  intereses  del  sistema  de  remuneraciones  y  proponer 
+                                 medidas de solución. 
+                           d)    Definir  las  metas  y  los  indicadores  considerados  en  el  sistema  de  remuneraciones,  de 
+                                 conformidad con lo establecido en el Capítulo IV de este Título. 
+                                
+                                
+                                                                         SUBCAPÍTULO III 
+                                                                                    
+                                                                             GERENCIA 
+                            
+                           Artículo 17°.-      Gerencia y sus responsabilidades 
+                           La  gerencia  debe  tener  la  formación  académica,  experiencia  e  integridad  necesarias  para  el 
+                           cumplimiento de sus funciones. La gerencia incluye al gerente general o equivalente (quien la lidera) y 
+                            
+                                                                                  
+                                                Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                         
+                                                                                                                                                      
+                            
+                           los  gerentes  de  primer  nivel,  es  decir,  aquellos  colaboradores  directos  del  gerente  general  en  la 
+                           ejecución de las políticas y decisiones del directorio. 
+                            
+                           La gerencia podrá constituir comités para el cumplimiento de sus responsabilidades. 
+                            
+                           Los gerentes pueden ser removidos por el directorio o por la junta general de accionistas, cualquiera 
+                           que sea el órgano del que haya emanado su nombramiento. 
+                            
+                           La gerencia es responsable por: 
+                           a)    Asegurar que las actividades de la empresa sean consistentes con la estrategia del negocio, el 
+                                 sistema de apetito por el riesgo, la cultura y valores corporativos, una adecuada conducta de 
+                                 mercado, y las políticas aprobadas por el directorio; así como de informar al directorio de manera 
+                                 periódica los resultados de dicho aseguramiento. 
+                           b)    Implementar una gestión integral de riesgos conforme a las disposiciones del directorio. 
+                           c)    Informar al directorio respecto a nuevos productos y, en general, sobre iniciativas gerenciales 
+                                 relevantes  (cambios  de  sistemas,  procesos,  modelos  de  negocios,  inversiones  sustanciales, 
+                                 etc.), que puedan tener un impacto material en el perfil de riesgo de la empresa. 
+                           d)    Informar al directorio, al menos trimestralmente, sobre la marcha económica de la empresa.  
+                           e)    Informar al directorio sobre las operaciones con partes vinculadas. 
+                           f)    Delegar funciones al personal de la empresa y velar por su cumplimiento. 
+                           g)    Implementar las medidas que sean necesarias para que la empresa cuente con una adecuada 
+                                 conducta de mercado. 
+                           h)    La veracidad de la información que proporcione al directorio y a la junta general de accionistas. 
+                            
+                           Los gerentes de las unidades organizativas, en su ámbito de acción, tienen la responsabilidad de 
+                           administrar  los  riesgos  relacionados  al  logro  de  los  objetivos  de  sus  unidades.  Entre  sus 
+                           responsabilidades específicas están: 
+                           a)    Asegurar la consistencia entre las operaciones, el sistema de apetito por el riesgo definido y las 
+                                 políticas de conducta de mercado establecidas, aplicables a su ámbito de acción. 
+                           b)    Asumir, ante el gerente de nivel inmediato superior, los resultados de la gestión de riesgos 
+                                 correspondiente a su unidad; y así hasta llegar al gerente que tiene esta responsabilidad ante el 
+                                 directorio. 
+                            
+                            
+                                                                           CAPÍTULO III 
+                                              CONFLICTOS DE INTERESES Y PRÁCTICAS CUESTIONABLES 
+                            
+                           Artículo 18°.-      Políticas en materia de conflictos de intereses 
+                           Las empresas deben identificar potenciales conflictos de intereses que surjan dentro de los propios 
+                           órganos  de  gobierno  y  gestión  de  la  empresa.  Asimismo,  deben  implementar  políticas  y 
+                           procedimientos para su tratamiento, seguimiento y control. 
+                            
+                           Artículo 19°.-      Prácticas cuestionables 
+                           Las empresas deben establecer los sistemas internos apropiados que faciliten la denuncia oportuna e 
+                           investigación de las actividades no autorizadas, ilícitas, fraudulentas y otras prácticas cuestionables 
+                           definidas por la empresa, identificadas por cualquier trabajador o por alguna persona que interactúa 
+                            
+                                                                                  
+                                                Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                        
+                                                                                                                                                  
+                           
+                          con  ésta.  Dichas  actividades  deben  ser  reportadas  a  la  unidad  de  auditoría  interna  o  unidad 
+                          organizativa encargada de su gestión, para lo cual la empresa debe implementar procedimientos que 
+                          permitan mantener la confidencialidad del denunciante. En el caso de los hechos significativos, la 
+                          unidad de auditoría interna, bajo responsabilidad, debe comunicar a esta Superintendencia, conforme 
+                          con lo establecido en el Reglamento de Auditoría Interna.  
+                           
+                           
+                                                                      CAPÍTULO IV 
+                                                                              
+                                                           SISTEMA DE REMUNERACIONES  
+                                                                              
+                         Artículo 20°.-    Diseño del sistema de remuneraciones   
+                          Las empresas deben contar con un sistema de remuneraciones para sus trabajadores y los miembros 
+                          del directorio, coherente con su estrategia de negocio y políticas, y que evite potenciales conflictos de 
+                          intereses.  Este  sistema  debe  corresponder  con  la  naturaleza,  tamaño  y  complejidad  de  las 
+                          operaciones y servicios de la empresa.  
+                           
+                          El  sistema  de  remuneraciones  debe  incluir  políticas  y  procedimientos  que  definan  los  criterios  e 
+                          indicadores para determinar la remuneración variable de los trabajadores de la empresa y de los 
+                          miembros del directorio, de ser aplicable. Dichos criterios e indicadores deben estar acordes con los 
+                          objetivos propios de sus funciones, la frecuencia y forma de pago. Los trabajadores y miembros del 
+                          directorio deben tener acceso a dichas políticas.  
+                           
+                         Artículo 21°.-    Vinculación con el desempeño de la empresa 
+                          Los criterios utilizados para el cálculo de la remuneración variable de los trabajadores y miembros del 
+                          directorio deben tener en cuenta el desempeño global y la gestión a largo plazo de la empresa. El 
+                          horizonte de tiempo asociado debe considerar los riesgos propios de las operaciones de la empresa. 
+                           
+                          El sistema de remuneraciones debe definir los supuestos bajo los cuales se inhabilite la aplicación de 
+                          cláusulas de blindaje y de acuerdos que garanticen el pago de remuneración variable, de ser el caso. 
+                           
+                          Estos  criterios  deben  estar  contemplados  en  los  contratos  que  suscriba  la  empresa  con  sus 
+                          trabajadores y en el documento de aceptación del cargo de los miembros del directorio.  
+                           
+                                                                      CAPÍTULO V14 
+                                EVALUACIÓN DE REQUISITOS E IMPEDIMENTOS DE ACCIONISTAS, DIRECTORES, 
+                                                     GERENTES Y PRINCIPALES FUNCIONARIOS 
+                           
+                                                                    SUBCAPÍTULO I 
+                                                             DISPOSICIONES GENERALES  
+                           
+                          Artículo 21-A.- Evaluación de requisitos e impedimentos  
+                                                                          
+                          14
+                            Incorporado por Resolución SBS No.211 -2021, vigente a partir del 1 de febrero de 2021, adecuación  1 de 
+                          noviembre de 2021 
+                           
+                           
+                           
+                                                                            
+                                             Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                           
+                                                                                                                                                         
+                              
+                             Las empresas deben implementar políticas y procedimientos para el cumplimiento de los requisitos de 
+                             idoneidad moral, idoneidad técnica y solvencia económica de sus accionistas, beneficiarios finales, 
+                             directores, gerentes y principales funcionarios, según corresponda, así como su no incursión en los 
+                             impedimentos establecidos en la Ley. 
+                              
+                             Dichas políticas y procedimientos deben permitir a las empresas el monitoreo del cumplimiento de lo 
+                             indicado en el párrafo anterior para una evaluación actualizada de la información sobre los requisitos e 
+                             impedimentos y para la adopción de las decisiones que correspondan, cuando se identifique o se 
+                             presuma su incumplimiento. 
+                              
+                             Artículo 21-B.- Responsabilidades del directorio 
+                             El directorio es responsable por: 
+                             a)  Aprobar políticas, manuales y procedimientos para la evaluación y monitoreo del cumplimiento de 
+                                  los requisitos de idoneidad moral, idoneidad técnica y solvencia económica, y de la no incursión 
+                                  en los impedimentos establecidos en la Ley, de sus accionistas, beneficiarios finales, directores, 
+                                  gerentes y principales funcionarios, según corresponda. 
+                             b)  Aprobar y vigilar la implementación y funcionamiento del sistema para la evaluación y monitoreo 
+                                  del cumplimiento de los requisitos de idoneidad moral, idoneidad técnica y solvencia económica, y 
+                                  de la no incursión en los impedimentos establecidos en la Ley, de sus accionistas, beneficiarios 
+                                  finales, directores, gerentes y principales funcionarios, según corresponda. 
+                             c)   Implementar acciones correctivas en aquellos casos que, como resultado de la evaluación de la 
+                                  idoneidad  moral,  idoneidad  técnica  y  solvencia  económica  de  los  accionistas,  beneficiarios 
+                                  finales,  directores,  gerentes  y  principales  funcionarios,  según  corresponda,  se  determine  que 
+                                  puedan afectar de forma negativa a la empresa. 
+                              
+                              
+                              
+                              
+                              
+                                                                             SUBCAPÍTULO II 
+                                                                    REQUISITOS E IMPEDIMENTOS 
+                              
+                             Artículo 21-C.- Requisitos e impedimentos para accionistas 
+                             Los accionistas y sus beneficiarios finales deben cumplir permanentemente con los requisitos de 
+                             idoneidad moral y solvencia económica, y no incurrir en los impedimentos establecidos en los artículos 
+                             20, 52, 53, 54 y 55 de la Ley General y el artículo 5 del Reglamento del TUO de la Ley del Sistema 
+                             Privado de Pensiones, según corresponda. 
+                              
+                             Artículo 21-D.- Requisitos e impedimentos para directores 
+                             Los directores de empresas deben cumplir permanentemente con los requisitos de idoneidad técnica y 
+                             moral, y no deben estar incursos en los impedimentos previstos en el artículo 81 de la Ley General y 
+                             el  artículo  25  del  Reglamento  del  TUO  de  la  Ley  del  Sistema  Privado  de  Pensiones,  según 
+                             corresponda,  así  como  en  otros  supuestos  establecidos  en  normas  especiales  respecto  a  esta 
+                             materia.  
+                              
+                             Los directores de las Cajas Municipales de Ahorro y Crédito deben cumplir, adicionalmente, con los 
+                             requisitos establecidos en el Reglamento para la elección de los representantes al directorio de las 
+                             Cajas Municipales de Ahorro y Crédito, aprobado por Resolución SBS N° 5788-2015. 
+                              
+                              
+                                                                                     
+                                                  Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+             
+                                                                                                                       
+              
+             En el caso de directores independientes, adicionalmente a lo dispuesto en los párrafos anteriores, 
+             estos deben cumplir con los requisitos establecidos en el inciso k) del artículo 2 y el artículo 6 del 
+             presente Reglamento, así como con las disposiciones contenidas en el Título III del Compendio de 
+             Normas de Superintendencia Reglamentarias del Sistema Privado de Administración de Fondos de 
+             Pensiones, aprobado mediante Resolución N° 053-98-EF/SAFP y sus normas modificatorias. 
+                 
+             Artículo 21-E.- Requisitos e impedimentos para gerentes y principales funcionarios 
+             Los  gerentes  y  principales  funcionarios  deben  cumplir  permanentemente  con  los  requisitos  de 
+             idoneidad técnica y moral, además de las disposiciones establecidas en el artículo 92 de la Ley 
+             General y 32 del Reglamento del TUO de la Ley del Sistema Privado de Pensiones, concordado con 
+             el  artículo  6  de  la  Ley  N°  27328,  Ley  que  incorpora  bajo  el  control  y  supervisión  de  la 
+             Superintendencia  de  Banca y  Seguros  a  las  Administradoras  Privadas  de  Fondos  de  Pensiones, 
+             según corresponda. 
+              
+                                  SUBCAPÍTULO III 
+                           EVALUACIÓN POR PARTE DE LA EMPRESA 
+              
+             Artículo 21-F.- Informe de evaluación de nuevos accionistas 
+             La  evaluación  de  los  requisitos  de  idoneidad  moral  y  solvencia  económica  de  los  potenciales 
+             accionistas, así como su no incursión en los impedimentos establecidos en la Ley General y en el 
+             Reglamento del TUO de la Ley del Sistema Privado de Pensiones señalados en el artículo 21-C, se 
+             realiza conforme a las disposiciones establecidas en la Ley General y el Reglamento de Autorización. 
+               
+             En el caso de potenciales propietarios significativos y beneficiarios finales que buscan adquirir la 
+             propiedad de más del diez por ciento (10%) del capital social de la empresa en forma directa o por 
+             conducto  de  terceros,  la  evaluación  mencionada  en  el  párrafo  anterior  es  realizada  por  la 
+             Superintendencia y se rige, además de por las normas indicadas en el párrafo precedente, por el 
+             Reglamento de adquisición de la propiedad en el capital social de las empresas supervisadas y de los 
+             propietarios significativos, aprobado por Resolución SBS N° 6420-2015. 
+               
+             Para la adquisición de un porcentaje menor del diez por ciento (10%) del capital social de la empresa 
+             en forma directa o por conducto de terceros, la empresa debe presentar a la Superintendencia un 
+             informe de evaluación del cumplimiento de los requisitos de idoneidad moral y solvencia económica, 
+             así como de la no incursión en los impedimentos, dentro de los primeros diez (10) días hábiles del 
+             mes siguiente de la adquisición. 
+               
+             En caso de la adquisición de acciones inscritas en el Registro Público del Mercado de Valores, a 
+             través  de  mecanismos  centralizados  de  negociación,  la  empresa  debe  presentar  a  la 
+             Superintendencia un informe de evaluación del cumplimiento de los requisitos y la no incursión en los 
+             impedimentos, cuando la participación adquirida, directa o indirectamente, sea superior al tres por 
+             ciento (3%) del capital social de la empresa y se mantenga por un período mayor a treinta (30) días, 
+             dentro de los primeros diez (10) días hábiles del mes siguiente. 
+               
+             Las  empresas  deben  elaborar  los  informes  de  evaluación  señalados  en  los  párrafos  anteriores, 
+             conforme a las políticas, manuales y procedimientos aprobados por el directorio. 
+               
+             En los casos citados en que existe la obligación de presentar a la Superintendencia un informe y 
+             siempre que la participación adquirida, directa o indirectamente, sea superior al tres por ciento (3%) 
+              
+                                       
+                       Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+             
+                                                                                                                       
+              
+             del capital social de las empresas, estas deben adjuntar a dicho informe, a través del medio que 
+             disponga la Superintendencia:  
+             a) El Anexo III del Reglamento de Autorización, tratándose de accionistas personas naturales, o los 2 
+             últimos estados financieros, considerando lo dispuesto en el numeral iv del inciso c del párrafo 6.2 del 
+             artículo 6 del Reglamento de Autorización, tratándose de personas jurídicas, y  
+             b) El Anexo I del Reglamento de Autorización 
+              
+             Artículo 21-G.- Informe de evaluación de nuevos directores, gerentes y principales funcionarios 
+             De forma previa a la elección de los nuevos directores, así como a la designación y/o nombramiento 
+             de  los  nuevos  gerentes  y  principales  funcionarios,  la  empresa  debe  realizar  la  evaluación  del 
+             cumplimiento de los requisitos y la no incursión en los impedimentos conforme a las disposiciones 
+             establecidas en la Ley General y en el Reglamento de Autorización. 
+               
+             La empresa debe presentar a la Superintendencia un informe de evaluación del cumplimiento de los 
+             requisitos y la no incursión en los impedimentos antes señalados, en un plazo no mayor a cinco (5) 
+             días hábiles posteriores a la elección del director, o designación y/o nombramiento de los gerentes y 
+             principales funcionarios.  
+               
+             Las  empresas  deben  elaborar  los  informes  de  evaluación  señalados  en  los  párrafos  anteriores, 
+             conforme a las políticas, manuales y procedimientos aprobados por el directorio. 
+               
+             Las empresas deben adjuntar a dicho informe los Anexos I y II del Reglamento de Autorización en el 
+             medio que la Superintendencia disponga.  
+               
+             Artículo 21-H.- Informes de evaluación 
+             Las empresas deben contar con los informes de evaluación de los accionistas, beneficiarios finales, 
+             directores,  gerentes  y  principales  funcionarios;  los  cuales  deben  ser  elaborados  conforme  a  las 
+             políticas, manuales y procedimientos aprobados por el directorio y deben mantenerse actualizados y 
+             estar a disposición de la Superintendencia. 
+              
+             Artículo 21-I.- Comunicación de hechos al Directorio y a la Superintendencia  
+             Las  empresas  deben establecer  en  sus  procedimientos  y  políticas  internas  que  deben  poner  en 
+             conocimiento  del  directorio  y  de  la  Superintendencia,  la  ocurrencia  de  cualquier  hecho  que 
+             presuntamente pueda afectar de forma negativa la idoneidad moral, idoneidad técnica o solvencia 
+             económica de los accionistas, beneficiarios finales, directores, gerentes y principales funcionarios, 
+             según corresponda. La puesta en conocimiento a la Superintendencia debe realizarse dentro de los 
+             cinco (5) días hábiles de haber tomado conocimiento de la ocurrencia del hecho. 
+              
+              
+                                  SUBCAPÍTULO IV 
+                        SUPERVISIÓN POR PARTE DE LA SUPERINTENDENCIA  
+              
+             Artículo 21-J.- Supervisión 
+             La Superintendencia supervisa el cumplimiento de lo establecido en la Ley y en este Reglamento, 
+             haciendo  uso  de  las  facultades  asignadas  por  las  normas  vigentes.  Para  estos  efectos,  la 
+             Superintendencia puede requerir la siguiente información: 
+              
+             a)  Los sustentos que permitan acreditar la evaluación realizada por la empresa. 
+              
+                                       
+                       Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                           
+                                                                                                                                                         
+                              
+                             b)  Información  de  los  accionistas,  beneficiarios  finales,  directores,  gerentes  y  principales 
+                                  funcionarios, conforme a los cuestionarios del Reglamento de Autorización, la cual puede ser 
+                                  requerida directamente o a través de la empresa. 
+                             c)   Documentación  suscrita  por  los  accionistas,  beneficiarios  finales,  directores,  gerentes  y 
+                                  principales funcionarios. 
+                             d)  Los sustentos documentales y otros que permitan acreditar la veracidad de la información de las 
+                                  declaraciones juradas. 
+                              
+                             Artículo 21-K.- Carácter de declaración jurada 
+                             Toda información proporcionada a la Superintendencia por la empresa tiene carácter de declaración 
+                             jurada.  
+                              
+                             Artículo 21-L.- Reuniones con la Superintendencia 
+                             La Superintendencia puede convocar, cuando lo estime conveniente, a los accionistas, directores, 
+                             gerentes  y  principales  funcionarios,  a  reuniones  relacionadas  al  cumplimiento  de  los  requisitos 
+                             definidos en el Reglamento de Autorización.  
+                              
+                             Artículo 21-M.- Evaluación por parte de la Superintendencia 
+                             La Superintendencia analiza la información recibida de las empresas y la que pueda ser obtenida por 
+                             otras  fuentes  y,  teniendo  en  cuenta  el  impacto  que  puedan  tener  los  criterios  evaluados  en  la 
+                             confianza,  reputación  e  integridad  de  los  sistemas  supervisados,  determina  los  casos  de 
+                             incumplimiento de los requisitos de idoneidad moral, idoneidad técnica o solvencia económica, así 
+                             como la incursión en alguno de los impedimentos de la ley, y comunica ello a la empresa y/o a la 
+                             persona evaluada. 
+                              
+                             La evaluación de los requisitos y la no incursión en los impedimentos, se realiza conforme a las 
+                             disposiciones establecidas en la Ley General y en el Reglamento de Autorización. 
+                              
+                             Si la Superintendencia determina que un accionista, beneficiario final, director, gerente o principal 
+                             funcionario incumple algún requisito o se encuentra incurso en alguno de los impedimentos de la ley, 
+                             esta lo comunica a la empresa, con la finalidad de que el directorio, en un plazo máximo de quince 
+                             (15) días hábiles desde la fecha de recibida la comunicación de la Superintendencia, informe sobre  la 
+                             implementación de las acciones correctivas aplicadas al accionista, beneficiario final, director, gerente, 
+                             o principal funcionario, según corresponda. La Superintendencia puede requerir la aplicación de las 
+                             medidas establecidas en el artículo 59 y el literal b) del inciso 1 del artículo 381 de la Ley General, así 
+                             como el último párrafo del artículo 13-A del TUO de la Ley del Sistema Privado de Pensiones 
+                              
+                             Artículo 21-N.- Infracciones y sanciones 
+                             La  Superintendencia  establece  la  tipificación  de  las  infracciones  y  sanciones  aplicables  a  los 
+                             incumplimientos  de  las  disposiciones  contenidas  en  este  Reglamento  e  inicia  un  procedimiento 
+                             sancionador, cuando corresponda. 
+                              
+                              
+                                                                                 TÍTULO III 
+                                                                  GESTIÓN INTEGRAL DE RIESGOS 
+                                                                                CAPÍTULO I 
+                              
+                                                                                     
+                                                  Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                        
+                                                                                                                                                   
+                           
+                                                                 ASPECTOS GENERALES 
+                           
+                          Artículo 22°.-    Gestión Integral de Riesgos 
+                          La Gestión Integral de Riesgos es un proceso efectuado por el directorio, la gerencia y el personal 
+                          aplicado a toda la empresa y en la definición de su estrategia, diseñado para identificar potenciales  
+                          eventos  que  pueden  afectarla,  gestionarlos  de  acuerdo  a  su  apetito  por  el  riesgo  y  proveer  una 
+                          seguridad razonable en el logro de sus objetivos. 
+                           
+                          La Gestión Integral de Riesgos incluye la totalidad de la empresa, sus líneas de negocio, procesos y 
+                          unidades organizativas, a través de todos sus riesgos relevantes. 
+                           
+                          Las empresas deben diseñar y aplicar una gestión integral de riesgos, adecuada a su naturaleza, 
+                          tamaño y a la complejidad de sus operaciones y servicios, así como al entorno macroeconómico que 
+                          afecta a los mercados en los que opera la empresa. 
+                           
+                          Las empresas deben contar con un marco de gestión de riesgos que se adapte a su organización y 
+                          necesidades, el  que debe considerar los elementos descritos a continuación, los que podrán ser 
+                          reagrupados en la forma que se estime más adecuada a las características particulares de la empresa 
+                          y su metodología:  
+                           
+                          a)   Ambiente interno.- que comprende, entre otros, la cultura y valores corporativos, la idoneidad 
+                               técnica  y  moral  de  sus  funcionarios;  la  estructura  organizacional;  y  las  condiciones  para  la 
+                               delegación de facultades y asignación de responsabilidades.  
+                          b)   Establecimiento de objetivos.- proceso por el que se determinan los objetivos que deben de 
+                               encontrarse de acuerdo con el apetito por el riesgo y dentro de su capacidad de riesgo. 
+                          c)   Identificación de riesgos.- proceso por el que se identifican los riesgos internos y externos, y 
+                               que considera, según sea apropiado, los posibles eventos y escenarios asociados. 
+                          d)   Evaluación de riesgos.- proceso por el que se evalúa el riesgo de una empresa, línea de 
+                               negocio, portafolio o producto; mediante técnicas cualitativas o cuantitativas.  
+                          e)   Respuesta al riesgo.- proceso por el que se opta por aceptar el riesgo, disminuir la probabilidad 
+                               de ocurrencia, disminuir el impacto, transferirlo total o parcialmente, evitarlo, o una combinación 
+                               de las medidas anteriores, de acuerdo con el nivel de apetito y límites de riesgo definidos. 
+                          f)   Control.- proceso que busca asegurar que las medidas de respuesta al riesgo se cumplan de 
+                               acuerdo con lo previsto.  
+                          g)   Información y comunicación.- proceso por el que se informa al directorio,  gerencia, comité de 
+                               riesgos y otros involucrados, según corresponda. 
+                          h)   Monitoreo.- proceso que consiste en la evaluación periódica del adecuado funcionamiento de la 
+                               gestión integral de riesgos.  
+                           
+                           
+                          Artículo 23°.-    Tipos de riesgos 
+                          Los riesgos pueden surgir por diversas fuentes, internas o externas, y pueden agruparse en diversas 
+                          categorías o tipos. A continuación se enumera una lista no limitativa de los diversos tipos de riesgos a 
+                          que está expuesta una empresa: 
+                           
+                          a)   Riesgo de crédito 
+                               La posibilidad de pérdidas por la incapacidad o falta de voluntad de los deudores, emisores, 
+                               contrapartes, o terceros obligados, para cumplir sus obligaciones contractuales.   
+                           
+                                                                             
+                                             Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                         
+                                                                                                                                                    
+                           
+                          b)    Riesgos de lavado de activos y del financiamiento del terrorismo 
+                                La  posibilidad  de  que  la  empresa  sea  utilizada  para  fines  de  lavado  de  activos  y  del 
+                                financiamiento del terrorismo. Esta definición excluye el riesgo de reputación y el operacional. 
+                          c)    Riesgo de liquidez 
+                                La posibilidad de pérdidas por la venta anticipada o forzosa de activos a descuentos inusuales 
+                                para  hacer  frente  a  obligaciones,  así  como  por  el  hecho  de  no  poder  cerrar  rápidamente 
+                                posiciones abiertas o cubrir posiciones en la cantidad suficiente y a un precio razonable. 
+                          d)    Riesgo de mercado 
+                                La  posibilidad  de  pérdidas  derivadas  de  fluctuaciones  en  las  tasas  de  interés,  los  tipos  de 
+                                cambio, los precios de instrumentos de renta variable y otros precios de mercado, que incidan 
+                                sobre la valuación de las posiciones en los instrumentos financieros. 
+                          e)    Riesgo de reputación 
+                                La posibilidad de pérdidas por la disminución de la confianza en la integridad de la institución que 
+                                surge  cuando  el  buen  nombre  de  la  empresa  es  afectado.  El  riesgo  de  reputación  puede 
+                                presentarse a partir de otros riesgos inherentes en las actividades de una organización. 
+                          f)    Riesgo técnico 
+                                La posibilidad de pérdidas o modificación adversa del valor de los compromisos contraídos en 
+                                virtud de los contratos de seguros, de reaseguros y de coaseguros. En el caso de los seguros de 
+                                no-vida,  se  consideran  las  fluctuaciones  relacionadas  con  la  frecuencia,  la  severidad,  y  la 
+                                liquidación de los siniestros. Para el caso de los seguros de vida, esto puede incluir la posibilidad 
+                                de pérdidas por variaciones en el nivel, la tendencia o la volatilidad de las tasas de mortalidad, 
+                                longevidad, invalidez, morbilidad, renovación o rescate de los contratos de seguros, entre otros 
+                                parámetros y supuestos, así como de los gastos de ejecución de dichas obligaciones. 
+                          g)    Riesgo de reaseguro15  
+                                La posibilidad de pérdidas en caso de insuficiencia de la cobertura de reaseguro contratada por 
+                                la empresa de seguros cedente, cuando las necesidades de reaseguro no fueron identificadas, 
+                                determinadas o precisadas adecuadamente en los contratos; o cuando el reasegurador no se 
+                                encuentra en capacidad de cumplir sus compromisos de pago, o no está dispuesto a pagarlos 
+                                por discrepancias en la aplicación de las condiciones del contrato de seguro y/o de reaseguro; 
+                                así como la demora en los pagos del reasegurador que puedan afectar los flujos de efectivo de la 
+                                cedente, generando un riesgo de liquidez. También comprende los riesgos asumidos por la 
+                                empresa cuando participa como reasegurador en operaciones de reaseguro aceptado. 
+                          h)    Riesgo estratégico 
+                                La posibilidad  de  pérdidas por  decisiones  de  alto nivel  asociadas  a  la  creación  de  ventajas 
+                                competitivas  sostenibles.  Se  encuentra  relacionado  a  fallas  o  debilidades  en  el  análisis  del 
+                                mercado, tendencias e incertidumbre del entorno, competencias claves de la empresa y en el 
+                                proceso de generación e innovación de valor. 
+                          i)    Riesgo operacional 
+                                La posibilidad de pérdidas debido a procesos inadecuados, fallas del personal, de la tecnología 
+                                de información, o eventos externos. Esta definición incluye el riesgo legal, pero excluye el riesgo 
+                                estratégico y de reputación. 
+                                 
+                           
+                                                                         CAPÍTULO II 
+                                                                                 
+                                                                    UNIDAD DE RIESGOS 
+                                                                          
+                          15
+                             Literal modificado mediante Resolución SBS N° 4706-2017 del 06/12/2017  
+                           
+                                                                               
+                                              Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                         
+                                                                                                                                                    
+                           
+                           
+                          Artículo 24°.-     Unidad de riesgos 
+                          La gestión integral de riesgos requiere que las empresas se organicen de acuerdo con su complejidad 
+                          y líneas de negocio en que operan. En este sentido, las empresas deben contar con una unidad 
+                          centralizada o con unidades especializadas en la gestión de riesgos específicos, de acuerdo con la 
+                          naturaleza, tamaño, complejidad de las operaciones y servicios de la empresa, siempre que, cuando 
+                          sean  estas  tomadas  en  su  conjunto,  permitan  la  implementación  de  los  criterios  previstos  en  el 
+                          Reglamento. 
+                           
+                          La Superintendencia podrá requerir la creación de una unidad de riesgos integral en empresas que a 
+                          su criterio resulten complejas, y cuando se observe en el ejercicio de las acciones de supervisión que 
+                          no se cumple con los criterios previstos en la normativa vigente. Asimismo, la Superintendencia puede 
+                          requerir a las empresas crear unidades de riesgos especializadas, de considerarlo necesario. 
+                           
+                          Los integrantes de la unidad de riesgos deben poseer la experiencia y los conocimientos que les 
+                          permitan el apropiado cumplimiento de sus funciones, para lo cual se debe establecer un plan de 
+                          capacitación que será presentado al directorio anualmente. 
+                           
+                          Las empresas comprendidas en el artículo 17° de la Ley General, las Derramas y Cajas de Beneficios 
+                          bajo  control  de  la  Superintendencia,  así  como  la  FEPCMAC  y  el  FOCMAC  podrán  asignar  las 
+                          funciones de la unidad de riesgo a la gerencia, a menos que la Superintendencia requiera que se 
+                          cuente con dicha unidad. 
+                           
+                          Artículo 25°.-     Funciones de la unidad de riesgos 
+                          La unidad de riesgos es la encargada de apoyar y asistir a las demás unidades de la empresa para la 
+                          realización de una buena gestión de riesgos en sus áreas de responsabilidad, y para ello debe ser 
+                          independiente de las unidades de negocios. 
+                           
+                          Son funciones de la unidad de riesgos: 
+                          a)    Proponer las políticas, procedimientos y metodologías apropiadas para la gestión integral de 
+                                riesgos en la empresa, incluyendo los roles y responsabilidades. 
+                          b)    Participar  en  el  diseño  y  permanente  mejora  y  adecuación  de  los  manuales  de  gestión  de 
+                                riesgos. 
+                          c)    Velar por una adecuada gestión integral de riesgos, promoviendo el alineamiento de la toma de 
+                                decisiones de la empresa con el sistema de apetito por el riesgo. 
+                          d)    Guiar la integración entre la gestión de riesgos, los planes de negocio y las actividades de 
+                                gestión empresarial. 
+                          e)    Establecer un lenguaje común de gestión de riesgos basado en las definiciones de esta norma y 
+                                de los demás reglamentos aplicables. 
+                          f)    Estimar las necesidades de patrimonio que permitan cubrir los riesgos que enfrenta la empresa y 
+                                alertar a la gerencia y al comité de riesgos o directorio, según sea el caso, sobre las posibles 
+                                insuficiencias de patrimonio efectivo. 
+                          g)    Informar a la gerencia y al comité de riesgos o directorio, según sea el caso, los aspectos 
+                                relevantes de la gestión de riesgos para una oportuna toma de decisiones. 
+                          h)    Informar al comité de riesgos o directorio, según sea el caso, acerca de los riesgos asociados al 
+                                lanzamiento de nuevos productos, y a los cambios importantes en el ambiente de negocios, el 
+                                ambiente operativo o informático, de forma previa a su lanzamiento o ejecución; así como de las 
+                                medidas de tratamiento propuestas o implementadas. 
+                           
+                           
+                                                                               
+                                              Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                         
+                                                                                                                                                    
+                           
+                          Artículo 26°.-     Jefe de la unidad de riesgos 
+                          El  jefe  de  la  unidad  de  riesgos  debe  tener  formación  académica  y  experiencia  asociadas  al 
+                          cumplimiento de sus funciones, y debe coordinar permanentemente con la gerencia, el comité de 
+                          riesgos, el comité de auditoría, los comités especializados, las unidades de negocio y de apoyo, en 
+                          cuanto a la gestión integral de riesgos realizada por la empresa. 
+                           
+                          El jefe de la unidad de riesgos debe tener nivel gerencial y reportar directamente al directorio o a la 
+                          gerencia o al comité de riesgos de la empresa, según sea el caso. Además, es responsable de 
+                          informar al directorio, a los comités respectivos y a las áreas de decisión correspondientes, sobre los 
+                          riesgos, los grados de exposición asumidos y la gestión de estos, de acuerdo con las políticas y 
+                          procedimientos establecidos por la empresa.  
+                           
+                          Lo referido anteriormente es de igual aplicación a los jefes de las unidades de riesgos especializadas, 
+                          en caso no exista una unidad de riesgos centralizada. 
+                           
+                          Artículo 27°.-     Informe Anual de Riesgos 
+                          La unidad de riesgos debe elaborar al cierre de cada ejercicio, un informe anual de riesgos, el que 
+                          debe incluir el plan de actividades para el ejercicio siguiente. El referido informe deberá ser remitido a 
+                          la Superintendencia dentro de los noventa (90) días posteriores al cierre de cada año. 
+                           
+                          Mediante oficio múltiple, la Superintendencia podrá definir la estructura mínima del informe anual de 
+                          riesgos,  o  requerir  informes  parciales  por  riesgos,  informes  periódicos  de  situación,  así  como  su 
+                          presentación por medios electrónicos. 
+                           
+                           
+                                                                         CAPÍTULO III 
+                                                                                 
+                                                               CUMPLIMIENTO NORMATIVO 
+                           
+                          Artículo 28°.-     Función de cumplimiento normativo 
+                          La función de cumplimiento normativo incorpora la evaluación y monitoreo del cumplimiento de toda la 
+                          normativa aplicable a la empresa supervisada, tiene como objetivo identificar y poner en conocimiento 
+                          oportuno de las áreas responsables de las empresas aquellas normas externas que tienen un impacto 
+                          directo en las funciones que estas realizan, así como las normas internas vinculadas, a fin de que se 
+                          tomen las medidas necesarias para dar cumplimiento a dichas disposiciones.  
+                           
+                          Las empresas deben determinar la forma más apropiada y eficiente de implementar la función de 
+                          cumplimiento normativo de acuerdo con sus propias necesidades y organización interna, asegurando 
+                          que dicha función cuente con recursos suficientes para realizar una labor efectiva. Ello no implica 
+                          necesariamente la conformación de una unidad organizativa pero sí la existencia de la función y el 
+                          nombramiento de un encargado de dicha labor denominado Oficial de Cumplimiento Normativo, el 
+                          cual debe contar con nivel gerencial que será designado por el directorio de la empresa, de quien 
+                          dependerá y a quien le reportará de manera directa.  
+                           
+                          La Superintendencia podrá requerir que las empresas constituyan unidades organizativas dedicadas 
+                          de  manera  exclusiva  a  la  función  de  cumplimiento,  atendiendo  a  su  naturaleza,  tamaño  y  a  la 
+                          complejidad de sus operaciones y servicios.  
+                           
+                                                                               
+                                              Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                         
+                                                                                                                                                    
+                           
+                           
+                          Los oficiales de cumplimiento normativo deben ser independientes respecto de las actividades de las 
+                          unidades de riesgos y de negocios y contar con conocimientos sólidos de la normativa aplicable a la 
+                          empresa, así como de su impacto en las operaciones que esta realiza. 
+                           
+                          Las actividades realizadas en el marco de la función de cumplimiento normativo deberán estar sujetas 
+                          a revisión periódica por parte de la Unidad de Auditoría Interna, no encontrándose esta sujeta al 
+                          monitoreo y evaluación de la función de cumplimiento normativo. 
+                           
+                          Artículo 29°.-     Responsabilidades y funciones del Oficial de cumplimiento normativo 
+                          Las responsabilidades y funciones del oficial de cumplimiento normativo, entre otras contempladas en 
+                          el Reglamento, son las siguientes: 
+                          a)    Proponer  al  directorio  las  políticas,  procedimientos  y  metodologías  apropiadas  para  el 
+                                cumplimiento de los requerimientos regulatorios de la empresa. 
+                          b)    Proponer al directorio un programa de cumplimiento anual. 
+                          c)    Informar de manera continua y oportuna al directorio y a la gerencia con respecto a las acciones 
+                                necesarias para un buen cumplimiento normativo y las posibles brechas existentes, así como de 
+                                los  principales  cambios  en  el  ambiente  normativo  que  puedan  producir  un  impacto  en  las 
+                                operaciones de la empresa. 
+                          d)    Informar semestralmente al directorio y a la gerencia sobre el progreso de la implementación de 
+                                las medidas de adecuación normativa.  
+                          e)    Orientar y capacitar al personal de la empresa con respecto a la importancia del cumplimiento 
+                                normativo y de las responsabilidades que se derivan en caso de incumplimiento. 
+                          f)    Brindar seguridad razonable al directorio y a la gerencia de que las políticas y procedimientos 
+                                relacionados  con  el  cumplimiento  normativo  logran  que  la  empresa  cumpla  con  los 
+                                requerimientos regulatorios. 
+                          g)    Proponer al directorio medidas correctivas en caso de presentarse fallas en la aplicación de la 
+                                función de cumplimiento normativo. 
+                               
+                          Artículo 30°.-     Políticas y procedimientos de cumplimiento normativo  
+                          El directorio de la empresa debe aprobar las políticas y procedimientos de cumplimiento normativo, en 
+                          un documento formal en el cual se establezca una función de cumplimiento normativo permanente y 
+                          efectiva en la empresa. Dicho documento debe contener los criterios a seguir por la gerencia y el 
+                          personal, y explicar los principales procesos que permitirán prevenir, identificar y mitigar la posibilidad 
+                          del incumplimiento normativo en todos los niveles de la organización. El referido documento debe 
+                          encontrarse a disposición de la Superintendencia.  
+                           
+                          Artículo 31°.-     Programa de cumplimiento anual 
+                          El directorio debe aprobar el programa de cumplimiento anual antes del 31 de diciembre de cada año. 
+                          Dicho programa debe exponer las actividades programadas, la implementación de estas, y estar a 
+                          disposición de esta Superintendencia. 
+                           
+                          El  programa  de  cumplimiento  anual  de  las  empresas  debe  indicar,  además  de  las  actividades 
+                          relacionadas a la responsabilidad de la función de cumplimiento normativo, lo siguiente: 
+                          a)    Elaborar informes de autoevaluación  de cumplimiento de las normas externas, así como de las 
+                                normas internas vinculadas a aquellas que tienen impacto directo en la empresa, de acuerdo con 
+                                la metodología establecida por ella. 
+                          b)    Establecer la duración de las actividades programadas inicio y término, así como determinar las 
+                                áreas involucradas y  los entregables por cada actividad propuesta. 
+                           
+                                                                               
+                                              Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                         
+                                                                                                                                                    
+                           
+                           
+                          Posteriormente, la Superintendencia podrá requerir lineamientos adicionales a incluir en el programa 
+                          de cumplimiento anual mediante oficio múltiple. 
+                           
+                          Artículo 32°.-     Relación de la función de cumplimiento normativo con la gestión de riesgos de 
+                          lavado de activos y del financiamiento del terrorismo, así como con la función del sistema de 
+                          atención al usuario 
+                          La Superintendencia, en razón a la naturaleza, tamaño y complejidad de operaciones y servicios de la 
+                          empresa, podrá autorizar que las funciones de cumplimiento normativo puedan ser compartidas con 
+                          las funciones de gestión de riesgos de lavado de activos y del financiamiento del terrorismo, o con las 
+                          funciones de atención al usuario, para lo cual se debe tomar en cuenta la regulación especial sobre 
+                          dichas materias. 
+                           
+                          La  Superintendencia  precisará  mediante  normas  de  carácter  general  los  requisitos  mínimos  de 
+                          información asociados a dicha solicitud de autorización. 
+                           
+                          Artículo 33°.-     Oficial de cumplimiento normativo a nivel corporativo 
+                          Las empresas que formen parte de un grupo económico pueden designar a un oficial de cumplimiento 
+                          normativo  a  nivel  corporativo;  dicha  designación  debe  contar  con  autorización  previa  de  esta 
+                          Superintendencia. Este funcionario no puede ser el oficial de cumplimiento corporativo de prevención 
+                          y gestión de riesgos de lavado y de financiamiento del terrorismo. 
+                           
+                          Para la autorización del cargo de oficial de cumplimiento normativo corporativo, las empresas deben 
+                          presentar una solicitud de autorización, suscrita por cada uno de los representantes de los integrantes 
+                          del grupo económico, adjuntando un informe técnico que sustente la viabilidad de contar con un oficial 
+                          de  cumplimiento  normativo  corporativo.  La  solicitud  debe  estar  acompañada  de  la  siguiente 
+                          información:  
+                               a)       Relación de las entidades integrantes del grupo económico que contarán con un oficial 
+                                        de cumplimiento normativo corporativo; 
+                               b)       Relación del personal a cargo del oficial de cumplimiento normativo corporativo y de los 
+                                        coordinadores designados por cada integrante del grupo;  
+                               c)       Informe que sustente la forma en que se dará cumplimiento a las disposiciones vigentes 
+                                        en  materia  de  cumplimiento  normativo,  para  cada  uno  de  los  integrantes  del  grupo 
+                                        económico que se encontrarían en el ámbito de la función corporativa; 
+                               d)       En caso que la función de cumplimiento normativo a nivel corporativo sea compartida 
+                                        con otras funciones, informe que sustente la forma en que se dará cumplimiento a dichas 
+                                        funciones compartidas; 
+                               e)       Currículum vitae del oficial de cumplimiento normativo corporativo; 
+                               f)       Razones por las que se solicita la designación de un oficial de cumplimiento normativo 
+                                        corporativo; y, 
+                               g)       Otra documentación a solicitud de la Superintendencia. 
+                           
+                          Si en uso de sus facultades de supervisión, se determina que el ejercicio práctico de las  funciones del 
+                          oficial  de  cumplimiento  normativo  corporativo  no  permite  un  adecuado  cumplimiento  de  las 
+                          disposiciones  contempladas  en  el  Reglamento  por  parte  de  las  empresas  integrantes  del  grupo 
+                          económico,  la  Superintendencia  podrá  requerir  el  cumplimiento  de  la  función  de  cumplimiento 
+                          normativo a nivel individual. 
+                           
+                          Artículo 34°.-     Coordinador Corporativo en materia de cumplimiento normativo  
+                           
+                                                                               
+                                              Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                   
+                                                                                                                                       
+                     
+                    Las  empresas  integrantes  de  un  grupo  económico  que  cuenten  con  un  oficial  de  cumplimiento 
+                    normativo  corporativo  deben  designar  un  coordinador  en  cada  empresa  integrante  del  grupo 
+                    económico, el cual estará encargado de coordinar directamente todos los temas relacionados a la  
+                    función de cumplimiento normativo.  
+                     
+                     
+                     
+                                                                  16
+                                                       CAPÍTULO IV  
+                                      BIENES Y/O SERVICIOS PROVISTOS POR TERCEROS 
+                                                               
+                    Artículo 35.- Aspectos generales 
+                     
+                    35.1. Los bienes y/o servicios provistos por terceros son aquellos entregados a la empresa por parte 
+                    de un proveedor.  
+                     
+                    35.2.  En caso se trate de un bien y/o servicio que pudiera ser desarrollado por la empresa pero 
+                    decide solicitarlo a través de un tercero, se configura la modalidad de subcontratación. 
+                     
+                    35.3. Los bienes y/o servicios significativos provistos por terceros son aquellos que, en caso de falla o 
+                    suspensión, pueden poner en riesgo importante a la empresa al afectar sus ingresos, solvencia, 
+                    continuidad operativa o reputación. En caso de que algún bien y/o servicio significativo sea provisto 
+                    por un tercero bajo la modalidad de subcontratación, la subcontratación se considera significativa. 
+                     
+                    35.4. Un proveedor es considerado significativo cuando provee servicios significativos, se encuentre o 
+                    no, bajo la modalidad de subcontratación. 
+                     
+                     
+                    Artículo 36.- Bienes y/o servicios provistos por terceros 
+                    36.1  Los  riesgos  asociados  a  la  entrega  de  bien  y/o  servicios  provistos  por  terceros  deben  ser 
+                    gestionados como parte del marco de gestión integral de riesgos de la empresa. 
+                     
+                    36.2 La empresa es responsable de los resultados de los bienes y/o servicios provistos por terceros 
+                    bajo la modalidad de subcontratación.  
+                     
+                    36.3 La empresa debe realizar una evaluación de los riesgos asociados a los servicios significativos 
+                    provistos por terceros, ya sea que se encuentren o no bajo la modalidad de subcontratación. Dicha 
+                    evaluación debe ser presentada al directorio para su aprobación. 
+                     
+                    36.4  En  el  caso  de  subcontratación  significativa  se  debe  contar  con  cláusulas  que  faciliten  una 
+                    adecuada revisión de la respectiva prestación por parte de las empresas, de la unidad de auditoría 
+                    interna, de la sociedad de auditoría externa, así como por parte de la Superintendencia o las personas 
+                    que esta designe, en los contratos suscritos con los proveedores. 
+                     
+                    36.5 La subcontratación de las funciones de la gestión de riesgos es considerada como significativa 
+                    para fines de este Reglamento. 
+                                                                    
+                    16
+                       Sustituido por la Resolución SBS N° 504-2021 del 22/02/2021 vigente a partir del 01.07.2021. 
+                     
+                     
+                                                            
+                                   Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                         
+                                                                                                                                                      
+                            
+                            
+                           36.6 Esta Superintendencia puede definir requisitos adicionales para algunos bienes y/o servicios 
+                           específicos provistos por terceros. 
+                            
+                            
+                           Artículo 37°.- Autorización para la contratación de bienes y/o servicios significativos provistos 
+                           por terceros 
+                           La contratación de los siguientes bienes y/o servicios significativos requiere autorización previa de 
+                           esta Superintendencia y debe sujetarse a lo establecido en las normas reglamentarias específicas: 
+                            
+                            a)  La  subcontratación  significativa  de  auditoría  interna,  de  acuerdo  con  lo  establecido  en  el 
+                                 Reglamento de Auditoría Interna o norma que lo sustituya;  
+                            b)  Otros que indique la Superintendencia mediante norma general.” 
+                            
+                                                      DISPOSICIONES FINALES Y COMPLEMENTARIAS 
+                            
+                           Primera.- Disponibilidad de la información 
+                           Toda información referida a la implementación de las disposiciones y requerimientos a los que se 
+                           hacen referencia en el Reglamento, debe estar a disposición de esta Superintendencia. 
+                            
+                           Segunda.- Medidas prudenciales 
+                           La Superintendencia podrá requerir a las empresas la adopción de medidas prudenciales adicionales 
+                           a  las  previstas  en  el  Reglamento,  con  el  propósito  de  atenuar  la  exposición  a  los  riesgos  que 
+                           enfrentan y/o permitir una efectiva supervisión. 
+                            
+                           Tercera.-  Autorización para Comités corporativos  
+                           Se requiere autorización expresa de la Superintendencia para que un Comité Corporativo de la Casa 
+                           Matriz realice funciones de alguno de los comités del Directorio. Para ello, las empresas deberán 
+                           solicitar  autorización  indicando  la  forma  en  que  se  cumplirán  las  disposiciones  señaladas  en  el 
+                           presente Reglamento y los siguientes aspectos, obligaciones que permanecen mientras se encuentre 
+                           vigente la autorización: 
+                            
+                           a)      Se debe evaluar que el sistema de gestión, tomado en su conjunto, cumpla sustancialmente 
+                                   con los criterios mínimos indicados en la presente normativa. 
+                           b)      Cuando la organización recibe diversos servicios de su casa matriz, se debe asegurar que 
+                                   tomados en su conjunto igualen o excedan los criterios previstos en el Reglamento. 
+                           c)      Cuando se requiera por fines de estandarización y lenguaje común con su casa matriz, a fin de 
+                                   aprovechar ventajas metodológicas, como por ejemplo conocimiento y experiencia demostrada 
+                                   en  diseño  e  implementación  de  gestión  de  riesgos  acorde  con  buenas  prácticas, 
+                                   infraestructura,  y  métodos  y  procedimientos,  se  debe  demostrar  un  claro  conocimiento  y 
+                                   gestión de los riesgos a los que están expuestos. 
+                            
+                           Esta Superintendencia podrá suspender en cualquier momento las autorizaciones concedidas a que 
+                           hace  referencia  esta  norma,  cuando  en  el  ejercicio  de  su  función  supervisora  observe  que  las 
+                           circunstancias lo ameritan, que la empresa ha incumplido con las obligaciones previstas, o que la 
+                           autorización concedida no ha contribuido a una mejora de su práctica de gestión de riesgos, lo que 
+                           comunicará a la empresa mediante oficio. 
+                            
+                                                                                  
+                                                Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                               
+                                                                                                                                                                   
+                                  
+                                  
+                                 Las autorizaciones especiales otorgadas durante la vigencia del Reglamento de la Gestión Integral de 
+                                 Riesgos,  aprobado  por  Resolución  SBS  N°037-2008  y  sus  normas  modificatorias  deberán  ser 
+                                 adecuadas al presente Reglamento. 
+                                  
+                                 Cuarta.- Informes de evaluación de accionistas, beneficiarios finales, directores, gerentes y 
+                                                                    17
+                                 principales funcionarios  
+                                 Para la aplicación de lo dispuesto en el artículo 21-H, los informes de evaluación de los accionistas, 
+                                 beneficiarios finales, directores, gerentes y principales funcionarios deberán ser elaborados y puestos 
+                                 a disposición de esta Superintendencia, en el plazo de un año contado desde la entrada en vigencia 
+                                 de dicho artículo, sin perjuicio de que la Superintendencia pueda requerir estos informes, en cualquier 
+                                 oportunidad, para fines de supervisión. 
+                                  
+                                                                                            Artículo  Segundo.-  Modificar  el  Anexo  “Actividades 
+                                 Programadas” del Reglamento de Auditoría Interna, aprobado por Resolución SBS N° 11699-2008 y 
+                                 sus normas modificatorias, de acuerdo con lo siguiente: 
+                                              
+                                             Incorporar como numerales 16 de la sección I “Empresas señaladas en los literales A y B del 
+                                             artículo 16° de la Ley General (excepto las empresas afianzadoras y de garantías), Banco de 
+                                             la Nación, Banco Agropecuario, Fondo Mivivienda y Corporación Financiera de Desarrollo 
+                                             (COFIDE)”, 20 de la sección II “Empresas de Seguros y/o Reaseguros”, 9 de la sección III        
+                                             “Empresas  de  Servicios  Complementarios  y  Conexos”,  11  de  la  sección  IV  “Empresas 
+                                             afianzadoras y de garantías”, 9 de la sección V “Derramas y Cajas de Pensiones” y 10 de la 
+                                             sección VI “Administradoras Privadas de Fondos de Pensiones (AFP)”, el siguiente texto: 
+                                  
+                                                   “Evaluación  del  sistema  de  remuneraciones  para  los  trabajadores  y  miembros  del 
+                                                   directorio, el que debe incluir por lo menos: 
+                                                   -     Criterios  de  medición,  evaluación,  periodicidad  y  forma  de  pago,  así  como  la 
+                                                         correspondencia entre los indicadores utilizados para medir el desempeño con el 
+                                                         apetito por el riesgo definidos por la empresa. 
+                                                   -     Políticas referidas a la remuneración variable, que incluya bonos por cumplimiento 
+                                                         del plan estratégico, bonos por productividad anuales, entre otros.” 
+                                                
+                                              
+                                                                                            Artículo  Tercero.-  Eliminar  en  el  Texto  Único  de 
+                                 Procedimientos Administrativos –TUPA de la Superintendencia de Banca, Seguros y AFP aprobado 
+                                 mediante Resolución Nº 3082-2011 y sus normas modificatorias, el procedimiento N°110 denominado 
+                                 “Autorizaciones Especiales sobre la Gestión Integral de Riesgos”.  
+                                  
+                                  
+                                                                                            Artículo Cuarto.- Incorporar los procedimientos N° 170 
+                                 “Autorización  para  la  designación  del  oficial  de  cumplimiento  normativo  corporativo”  y  N°    171 
+                                 “Autorización para Comités Corporativos” en el Texto Único de Procedimientos Administrativos –TUPA 
+                                 de la Superintendencia de Banca, Seguros y AFP aprobado mediante Resolución Nº 3082-2011 y sus 
+                                                                                 
+                                 17
+                                     Incorporado por Resolución SBS No. 211-2021, vigente a partir del 1 de febrero de 2021, adecuación  1 de 
+                                 noviembre de 2021 
+                                  
+                                  
+                                                                                                   
+                                                          Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+             
+                                                                                                                       
+              
+             normas  modificatorias,  conforme  el  texto  que  se  adjunta  a  la  presente  resolución  y  se  publica 
+             conforme con lo dispuesto en el Decreto Supremo N° 004-2008-PCM, reglamento de la Ley N° 29091. 
+             (Portal institucional: www.sbs.gob.pe). 
+              
+              
+                                   Artículo Quinto.- En un plazo que no debe exceder de 
+             ciento veinte (120) días de la vigencia de la presente Resolución, las empresas deben remitir a esta 
+             Superintendencia  un  plan  de  adecuación  respecto  de  todas  las  disposiciones  contenidas  en  el 
+             Reglamento de Gobierno Corporativo y de la Gestión Integral de Riesgos a que se refiere el artículo 
+             Primero de la presente Resolución. 
+              
+             El plan de adecuación debe ser aprobado por el directorio y debe incluir un diagnóstico preliminar de 
+             la situación existente en la empresa, los órganos de gobierno, el sistema de remuneraciones y la 
+             gestión integral de riesgos, así como las acciones previstas para la total adecuación, su cronograma, y 
+             los  funcionarios  responsables  del  cumplimiento  de  dicho  plan,  así  como  las  aprobaciones  de  las 
+             adecuaciones en las sesiones más inmediatas del directorio y junta general de accionistas, en lo que 
+             corresponda. La Superintendencia, mediante oficio múltiple, podrá dictar mayores precisiones sobre el 
+             contenido del plan.  
+              
+             Las  empresas  que  fueron  autorizadas  de  acuerdo  con  el  procedimiento  N°  110  “Autorizaciones 
+             Especiales sobre la Gestión Integral de Riesgos” conforme al Reglamento de la Gestión Integral de 
+             Riesgos, aprobada por Resolución SBS N°037-2008 y sus normas modificatorias, deberán incluir en 
+             el plan de adecuación el diagnostico referido en el párrafo anterior. 
+                                    
+                                    
+                                   Artículo  Sexto.-  Incorporar  como  último  párrafo  del 
+             artículo N° 6°-A del Título III del Compendio de Normas de Superintendencia Reglamentarias del 
+             Sistema  Privado  de  Pensiones  aprobado  mediante  Resolución  N°053-98-EF/SAFP  y  sus  normas 
+             modificatorias, el siguiente: 
+             “(...) 
+             El  director  independiente  ejerce  dicho  cargo  en  la  AFP  por  un  plazo  máximo  de  diez  (10)  años 
+             contados desde su primera designación.” 
+              
+              
+                                   Artículo Séptimo.- Toda referencia al Reglamento de la 
+             Gestión  Integral  de  Riesgos,  aprobado  por  la  Resolución  SBS  N°037-2008  y  sus  normas 
+             modificatorias, en las normas emitidas por esta Superintendencia, se sustituye por el Reglamento de 
+             Gobierno Corporativo y de la Gestión Integral de Riesgos, aprobado por el artículo Primero de la 
+             presente Resolución. 
+              
+              
+                                   Artículo Octavo.-  Toda referencia al término “tolerancia 
+             al riesgo” en las normas emitidas por esta Superintendencia, debe entenderse como el conjunto de 
+             límites de riesgo que la empresa ha determinado y que se encuentra dentro de su capacidad de 
+             riesgo. 
+                                    
+                                    
+                                   Artículo Noveno.- Vigencia  
+              
+                                       
+                       Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
+                
+                                                                                                                                
+                  
+                 1.  La presente Resolución entra en vigencia a partir del día siguiente de su publicación en el diario 
+                   oficial El Peruano conforme a lo indicado en el presente artículo.  
+                    
+                 2.  El artículo Primero de la presente Resolución entra en vigencia el 01 de abril del 2018, fecha a 
+                   partir de la cual quedará sin efecto el Reglamento de la Gestión Integral de Riesgos, aprobado por 
+                   la Resolución SBS Nº 37-2008 y sus normas modificatorias, así como la Circular B-1940-93, S-
+                   547-93, F-283-93, M-282-93, CM-134-93, EAF-137-93 y CR-020-93. 
+                    
+                 3.  El plazo de tres (3) años a que se refiere el literal k) del artículo 2° del Reglamento de Gobierno 
+                   Corporativo y de la Gestión Integral de Riesgos aprobado mediante el artículo Primero de la 
+                   presente Resolución, no es de aplicación a quienes a la fecha de publicación de la presente 
+                   Resolución se vengan desempeñando como directores independientes en la empresa, salvo para 
+                   el caso de las Administradoras Privadas de Fondos de Pensiones (AFP) a las que se les aplica el 
+                   artículo Quinto de la Resolución SBS N° 6422-2015. 
+                    
+                 4.  El plazo máximo de diez (10) años a que se refiere el artículo 6° del Reglamento de Gobierno 
+                   Corporativo  y  de  la  Gestión  Integral  de  Riesgos  aprobado  mediante  el  Primer  artículo  de  la 
+                   presente Resolución, se empezará a computar a partir del 01 de abril del 2018.  
+                        
+                 5.  El plazo máximo de diez (10) años a que se refiere el artículo Sexto de la presente Resolución, se 
+                   empezará a computar a partir del 01 de abril del 2018.  
+                        
+                 6.  El  artículo  Segundo  de  la  presente  Resolución  entra  en  vigencia  a  partir  de  la  auditoría 
+                   correspondiente al ejercicio 2018. 
+                        
+                 7.  Los artículos Tercero, Séptimo y Octavo de la presente Resolución entran en vigencia a partir del 
+                   01 de abril del 2018. 
+                  
+                  
+                                          Regístrese, comuníquese y publíquese. 
+                   
+                                                    
+                                                    
+                                       SOCORRO HEYSEN ZEGARRA 
+                                Superintendenta de Banca, Seguros y Administradoras 
+                                       Privadas de Fondos de Pensiones 
+                  
+                                                  
+                             Los Laureles Nº 214 - Lima 27 - Perú   Telf. : (511)6309000   Fax: (511) 6309239 
